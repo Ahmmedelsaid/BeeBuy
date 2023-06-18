@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BeeBuy/static/css/main.d129e0ff.css",
+    "main.js": "/BeeBuy/static/js/main.ade041a9.js",
+    "static/js/787.44e187e0.chunk.js": "/BeeBuy/static/js/787.44e187e0.chunk.js",
+    "static/media/inverted.png": "/BeeBuy/static/media/inverted.1ea928dc91569ce96815.png",
+    "static/media/signuplogoo.png": "/BeeBuy/static/media/signuplogoo.615fed2c448bb7af9b9a.png",
+    "static/media/logo.png": "/BeeBuy/static/media/logo.6ec152372d5df66e99e7.png",
+    "index.html": "/BeeBuy/index.html",
+    "main.d129e0ff.css.map": "/BeeBuy/static/css/main.d129e0ff.css.map",
+    "main.ade041a9.js.map": "/BeeBuy/static/js/main.ade041a9.js.map",
+    "787.44e187e0.chunk.js.map": "/BeeBuy/static/js/787.44e187e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d129e0ff.css",
+    "static/js/main.ade041a9.js"
+  ]
+}
