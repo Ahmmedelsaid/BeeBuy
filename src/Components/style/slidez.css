@@ -1,0 +1,16 @@
+.SlideSize{
+    max-height: 75vh;
+    overflow: hidden;
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media only screen and (max-width: 600px) {
+    .SlideSize{
+
+    margin-top: 50px;
+    /* border: solid; */
+}
+
+}

@@ -1,0 +1,157 @@
+.empaty {
+  /* border: solid; */
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.empaty p {
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+  /* font-family: 'Bebas Neue', cursive; */
+
+  background-image: linear-gradient(rgb(255, 174, 0), rgb(255, 174, 0));
+  background-size: 100% 10px;
+  background-repeat: no-repeat;
+  background-position: 100% 0%;
+  transition: background-size 0.7s, background-position 0.5s ease-in-out;
+  user-select: none;
+  /* padding: 10px 12px; */
+  letter-spacing: 2px;
+  border-radius: 5px;
+}
+.empaty p:hover {
+  background-size: 100% 100%;
+  background-position: 0% 100%;
+  transition: background-position 0.7s, background-size 0.5s ease-in-out;
+  color: white;
+}
+.empaty .FaOpencart {
+  font-size: 200px;
+}
+
+.empaty:last-child a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 400;
+  margin-top: 50px;
+}
+
+.empaty:last-child a:hover {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ff9d00;
+}
+
+.cartContainar{
+  min-height:100vh ;
+}
+.cart {
+  padding: 20px;
+  /* border: 2px solid red; */
+  left: 0;
+  width: 90%;
+  margin: auto;
+  /* transform: translateX(10%); */
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.cart ul {
+  list-style: none;
+  /* border: solid rgb(55, 0, 255); */
+  width: fit-content;
+  display: flex;
+  justify-content: center; 
+  height: fit-content;
+  gap: 20px;
+  flex-wrap: wrap;
+   width: 100%;
+}
+
+#stateBodyz > div > div > ul > li > div:nth-child(2) button {
+  width: 100%;
+  padding: 7px;
+  background-color: #3e3e3e;
+  color: white;
+  border: none;
+  border: solid;
+}
+#stateBodyz > div > div > ul > li > div:nth-child(2) button:hover {
+  background-color: #ffae00;
+  border: none;
+}
+#stateBodyz > div > div > ul > li > div:nth-child(2) {
+  padding: 5px;
+  text-align: center;
+}
+#stateBodyz > div > div > ul > li > div:nth-child(2) > h3 {
+  height: 35px;
+  overflow: hidden;
+}
+.cart ul li {
+  width: 250px;
+  height: 350px;
+  overflow: hidden;
+  border: 0.5px solid rgb(220, 220, 220);
+  display: flex;
+  flex-direction: column;
+}
+.cart ul li:hover {
+  box-shadow: 0px 0px 7px 2px rgba(165, 165, 165, 0.189);
+}
+.cart ul li .imgsds {
+  overflow: hidden;
+  width: 100%;
+  min-height: 180px;
+
+  overflow: hidden;
+}
+.cart ul li .imgsds img {
+  width: 100%;
+  height: 100%;
+}
+
+.byeNow {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 250px;
+  height: 75px;
+  /* padding: 20px 20px; */
+  border-radius: 5px;
+  font-size: large;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: white;
+  background-color: #ff8c00;
+  border: none;
+  z-index: 30;
+}
+.frm {
+  position: relative;
+}
+.frm .GetUrlStyle {
+  color: rgb(50, 50, 50);
+  font-size: 12px;
+  position: absolute;
+  right: 0;
+  top: 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.frm .GetUrlStyle:hover {
+  color: #ff8c00;
+}
+@media only screen and (max-width: 1200px) {
+  .cartContainar{
+    margin-top: 50px;
+    /* border: solid; */
+  }
+}

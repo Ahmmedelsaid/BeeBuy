@@ -1,0 +1,290 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    text-decoration: none;
+  }
+  i {
+    color: white;
+  }
+
+  .NavMedia{
+    position: fixed;
+    top: 0px;
+    z-index: 1000;
+    width: 100%;
+    left: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to bottom, #9e5400, #e09704);
+    background: linear-gradient(to bottom, #9e5400, #e09704);
+   
+    height: 50px;
+  }
+  div > div.NavMedia > div{
+    width: 90%;
+    /* border:red solid; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+  }
+div.NavMedia > div > a{
+    color: white;
+    text-decoration: none;
+    /* border: solid; */
+    padding: 8px 15px ;
+  }
+  #navbarScrollz{
+    width: fit-content;
+  }
+  #containar{
+    height: 100%; 
+    overflow: hidden;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* border: red solid; */
+    margin: auto;
+  }
+  .Nav {
+    user-select: none;
+    position: fixed;
+    top: 0;
+    bottom: 0px;
+    background-color: rgb(59, 59, 59);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease;
+    left: 0px;
+    width: 10%;
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to bottom, #9e5400, #e09704);
+    background: linear-gradient(to bottom, #9e5400, #e09704);
+    z-index: 200;
+    /* border: solid; */
+  }
+
+  #display {
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: left !important;
+    text-transform: uppercase;
+
+  }
+  #display a {
+    display: block;
+
+    color: white;
+    font-size: 18px;
+    /* border: solid red;  */
+    /* transform: translateY(0px) translateX(0px); */
+  }
+
+.IsSign{
+  background: none;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.IsSign:hover{
+  color: #232323;
+    transition: all 0.2s;
+    text-transform: unset;
+    text-decoration: none;
+    font-weight: 400;
+    transition: all 0.3s ease-in-ou
+}
+  #Nav #nav-content div i {
+    display: block;
+    /* border: solid;  */
+    transform: translateX(5px);
+    transition: all 0.5s ease;
+    text-align: center;
+  }
+  #Nav:hover #nav-content div i {
+    display: block;
+    /* border: solid;  */
+    transform: translateX(0px);
+  }
+  #Nav .socialMediaNav {
+    flex-direction: row;
+  }
+  #Nav #Logo {
+    width: 80%;
+    /* border: solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  #Nav #Logo img {
+    width: 80%;
+    border-radius: 20px;
+    transition: all 0.5s ease;
+  }
+  #Nav #Logo img:hover {
+    width: 80%;
+    border-radius: 40px;
+    transform: translateY(-10px);
+  }
+  
+  #nav-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: start;
+    /* border: solid white; */
+    /* margin-top: !important; */
+    height: 70vh;
+    width: fit-content;
+  }
+  #nav-content div {
+    display: flex;
+    align-items: center;
+    justify-content:start;
+    flex-direction: row;
+    /* border: solid white; */
+    width: fit-content;
+  }
+  
+  #nav-content div div a:hover {
+    color: #232323;
+    transition: all 0.2s;
+    text-transform: unset;
+    text-decoration: none;
+    font-weight: 400;
+    transition: all 0.3s ease-in-out;
+  }
+  
+
+
+  
+  .socialMediaNav {
+    display: flex;
+    flex-direction: column;
+   
+    gap: 15px;
+    transition: all 0.5s ease;
+    /* margin-top: 20px; */
+  }
+  .socialMediaNav a {
+    opacity: 0.5;
+  }
+  .socialMediaNav a:hover {
+    opacity: 1;
+  }
+
+  .search {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border:  solid red; */
+    margin-top: 5px;
+    padding: 10px;
+  }
+  .search input {
+    width: 30%;
+    margin-right: 5px;
+    border-top: none;
+    border-radius: 5px;
+    font-weight: 700;
+    height: 35px;
+    padding: 10px;
+    transition: all 0.5s ease;
+  }
+  .search input:focus {
+    outline: none;
+    box-shadow: 0 3px 6px 1px rgba(56, 56, 56, 0.185);
+  
+    width: 40%;
+  }
+  
+  .contentBody .search i {
+    color: black;
+  }
+  .MallContent {
+    margin-top: 50px;
+    /* border: solid; */
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .banner {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    z-index: 109;
+  }
+  .banner img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .down i {
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    z-index: 9999;
+    bottom: 30px;
+    width: 50px;
+    margin-left: 50%;
+    height: 40px;
+   
+    transform: translateY(-50px) ;
+    
+    text-align: center;
+    animation: upDown 4s infinite linear ;
+    cursor: pointer;
+  }
+  
+  @keyframes upDown {
+      
+      0%{
+          transform: rotate(180deg);
+  
+      }
+      10%{
+  
+          
+          transform: translateY(-50px);
+          opacity: 0;
+      }
+    
+      50%{
+          transform: translateY(-10px);
+          opacity: 0.5;
+      } 
+      100%{
+          transform: translateY(0px);
+          transform: rotate(180deg);
+          opacity: 1;
+      }
+  
+  }
+  #iconNav{
+    /* border: 1px solid white; */
+    color: white;
+    font-size: 22px;
+    width: fit-content;
+    margin-right: 5px;
+  }

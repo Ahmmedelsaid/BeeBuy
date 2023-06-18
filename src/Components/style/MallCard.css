@@ -1,0 +1,201 @@
+.MallStyle{
+    /* border: 3px solid rgb(102, 0, 255); */
+    /* margin-top: 50px; */
+    background: rgb(215,176,17);
+    background: linear-gradient(0deg, rgb(215, 149, 17) 18%, #b6b6b6 50%, #eeeeeeb2 100%);
+            padding: 20px;
+    border-radius: 5px;
+
+}
+ #NameSection{
+    color: #ff8c00;
+    position: relative;
+    width: fit-content;
+    padding-left:5px;
+    margin-bottom: 50px;
+    user-select: none;
+}
+#NameSection::before{
+    content: "";
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    background-color: #000;
+    bottom: 0;
+    left: 0;
+    transition: all 0.5s ease;
+    margin-left: -5px;
+
+
+}
+#NameSection:hover::before{
+    content: "";
+    position: absolute;
+    width: 1%;
+    height: 0px;
+    background-color: #ff8800;
+    bottom: 0;
+    left: 0;
+
+}
+#NameSection::after{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background-color: #000;
+    bottom: 0;
+    left: 0px;
+    transition: all 0.5s ease;
+    margin-left: -5px;
+
+
+}
+ #NameSection:hover::after{
+    content: "";
+    position: absolute;
+    width: 110%;
+    height: 2px;
+    background-color: #ff8800;
+    bottom: 0;
+    left: 0px;
+
+}
+.UlClass{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px
+    ;
+    justify-content: space-around;
+    /* border: solid; */
+}
+
+
+  @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+figure.snip1218 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 1px;
+  /* min-width: 220px; */
+ width: 310px;
+  /* width: 100%; */
+  background: #fd9800;
+  color: #212121;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(198, 117, 4, 0.128);
+  font-size: 16px;
+  border-radius: 5px;
+}
+figure.snip1218 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+figure.snip1218 img {
+  width: 100%;
+  display: flex;
+  vertical-align: top;
+  height: 100%;
+
+}
+figure.snip1218 .image {
+  position: relative;
+  border-bottom: 4px solid #fd9800;
+  z-index: 1;
+  height: 310px;
+  width: 100%;
+  /* border: solid red; */
+
+}
+figure.snip1218 .image:before {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 20px 20px 0 20px;
+  border-color: #fd9800 transparent transparent transparent;
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -15px);
+  transform: translate(-50%, -15px);
+  z-index: -1;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+figure.snip1218 .image p {
+  font-weight: 500;
+  margin: 0;
+  padding: 0 30px;
+  line-height: 1.6em;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  color: #ffffff;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  opacity: 0;
+  font-style: italic;
+}
+figure.snip1218 figcaption {
+  background-color: #ffffff;
+  padding: 25px;
+  cursor: pointer;
+}
+figure.snip1218 h3 {
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+figure.snip1218 h3 span {
+  font-weight: 800;
+}
+figure.snip1218 h5 {
+  margin: 0 0 15px;
+  font-weight: 400;
+}
+figure.snip1218 i {
+  margin-right: 5px;
+  display: inline-block;
+  font-size: 24px;
+  color: #fd9800;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  background: white;
+  box-shadow: 0 0 3px rgba(193, 128, 8, 0.4);
+  background-color: rgba(222, 155, 11, 0.05);
+}
+figure.snip1218 i:hover {
+  background-color: #fd9800;
+  color: white !important;
+}
+figure.snip1218:hover .image:before,
+figure.snip1218.hover .image:before {
+  border-color: #fd9800 transparent transparent transparent;
+  -webkit-transform: translate(-50%, 0px);
+  transform: translate(-50%, 0px);
+}
+figure.snip1218:hover .image p,
+figure.snip1218.hover .image p {
+  opacity: 1;
+}
+figure.snip1218:hover img,
+figure.snip1218.hover img {
+  opacity: 0.2;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+@media only screen and (max-width: 600px) {
+  figure.snip1218{
+    width: 350px;
+    /* height: 450px; */
+    /* border: solid; */
+  }
+  .snip1218 .image{
+    height: 200px;
+  }
+}

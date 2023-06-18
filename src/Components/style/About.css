@@ -1,0 +1,35 @@
+.about{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    width: fit-content;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    user-select: none;
+    letter-spacing: 2px;
+    font-weight: 800;
+    color: #ff8c00;
+    padding: 5px;
+    border-radius: 20px;
+    overflow: hidden;
+    border-bottom: 2px solid #2c2c2c ;
+}
+.color {
+    color: #ff8c00;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 10px;
+text-align: center;
+}
+.Pragraph{
+    font-size: 16px;
+    text-align: center;
+    width: 70%;
+    padding: 5px;
+    margin: auto;
+    line-height: 2;
+    color: #484848;
+        text-transform: uppercase;
+
+}

@@ -1,0 +1,46 @@
+#Shops_card{
+    /* border: solid; */
+    width: 200px;
+    background-color: rgb(255, 200, 0);
+    border-radius: 5px;
+    height: 270px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    /* overflow: hidden; */
+  /* background-color: #eeeeeeb2;  */
+
+}
+
+#DivCat > div{
+    height: fit-content;
+}
+#imgSHop{
+    height: 200px !important;
+    width: 100%;
+    overflow: hidden;
+    /* border: solid red; */
+    display: flex;
+
+}
+#Shops_card img{
+    /* border: solid; */
+    width: 100%;
+}
+#aksdfa{
+    padding: 10px 0px 0px 0px;
+}
+#shopsAll{
+    /* border: solid red; */
+    display: flex;
+    min-height: 80vh;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+
+}
+.ShopsBG{
+    background-color: #eeeeeeb2; 
+
+}

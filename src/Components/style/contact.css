@@ -1,0 +1,171 @@
+.fomCont {
+  /* border: solid green; */
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  right: 0px;
+
+}
+.background{
+    background-image: url("https://i.pinimg.com/originals/38/d8/ff/38d8ffe2d372a0ba5f4bc8b152007657.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: -999;
+}
+
+.divFomCot {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+    width: 40%;
+  padding: 50px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 2px #4747476b;
+  background-color: #353535 ;
+  
+}
+#contts{
+    margin: auto;
+    color: white;
+    /* border: solid; */
+    text-transform: uppercase;
+    padding: 20px;
+}
+#contts > span{
+    color: #ffa200;
+    /* border: solid; */
+    font-size: 35px;
+}
+.lblCont {
+  /* border: solid blue; */
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+#stateBodyz > form > div.divFomCot > div.sends > div:nth-child(3){
+    color: rgb(237, 229, 215);
+    text-transform: uppercase;
+    font-size: 15px;
+    user-select: none;
+}
+
+.inpCont {
+  border: none;
+  color: white;
+  border-bottom: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100%;
+  background-color: transparent;
+  resize: none;
+}
+.inpCont:focus {
+  border: none;
+  border-bottom: 2px solid #ffc400;
+
+  outline: none;
+}
+
+#btnCot {
+  /* padding: 20px 10px; */
+  height: 60px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ffa200;
+  color: white;
+  position: relative;
+  /* margin-top: 20px; */
+  transition: all 0.2s ease-in-out;
+  width: 100%;
+}
+
+#btnCot:hover {
+  background-color: rgb(42, 42, 42);
+  color: white;
+  font-size: 20px;
+}
+.sends{
+    /* border: solid; */
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.sends div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+
+}
+.sends div a{
+    text-decoration: none;
+    color: white;
+    border: solid #ffffff;
+    width: 45%;
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 5px;
+
+
+}
+.sends div a:first-child{
+    text-decoration: none;
+    color: white;
+  background-color: #2a2a2a;
+
+    border: solid #2a2a2a;
+    width: 45%;
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 5px;
+
+
+}
+.sends div a:hover{
+    background-color: #ffa200;
+    border: solid #ffa200;
+
+}
+@media only screen and (max-width:1200px) {
+
+  .divFomCot {
+  
+      width: 60%;
+      margin-top: 50px;
+  
+    
+  }
+}
+
+@media only screen and (max-width:1000px) {
+
+  .divFomCot {
+
+      width: 70%;
+      margin-top: 50px;
+  
+    
+  }
+}
+
+
+@media only screen and (max-width:600px) {
+
+  .divFomCot {
+
+      width: 100%;
+      margin-top: 50px;
+  
+    
+  }
+}
+

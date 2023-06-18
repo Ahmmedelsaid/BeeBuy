@@ -1,0 +1,53 @@
+.MyOrderContainar{
+    /* border: solid; */
+    background-color: #f2f2f2;
+   
+    ;
+    padding: 25px;
+    min-height: 100vh;
+}
+.OrderCard{
+    /* border: solid; */
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    gap: 20px
+    ;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    flex-wrap: wrap;
+    position: relative;
+    transition: all 0.3s ease;
+    user-select: none;
+}
+.OrderCard:hover{
+    box-shadow: 0 0 10px 2px #fbeccc85;
+    /* border: solid 0.3px rgb(255, 174, 0); */
+
+}
+.orderItem{
+    border: 0.5px solid #d7d6d6;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 2px rgb(235, 235, 235);
+    width: 350px;
+    text-align: center;
+    /* color: white; */
+}
+.MyOrderTotalPrice{
+    /* border: solid; */
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    .MyOrderContainar{
+        margin-top: 50px;
+    }
+  }
