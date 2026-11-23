@@ -1,51 +1,53 @@
 import React from "react";
-import RegLogin from "./Components/User/RegLogin";
-import {  Route, Routes } from "react-router-dom";
-import Categories from "./Components/mainpage/Categories";
-import Mall from "./Components/mainpage/Mall";
-import Shops from "./Components/mainpage/Shops";
-import Products from "./Components/mainpage/Products";
-import Homme from "./Components/mainpage/Homme";
-import About from "./Components/mainpage/About";
-import EmailForm from "./Components/mainpage/EmailForm";
-import Cart from "./Components/mainpage/Cart";
-import Map from './Components/mainpage/Maps';
-import Profile from "./Components/mainpage/Profile"
-import MyOrders from "./Components/mainpage/MyOrders";
+import { Navigate, Route, Routes } from "react-router-dom";
+import { AuthProvider } from "./context/AuthContext";
+import { CartProvider } from "./context/CartContext";
+import { ToastProvider } from "./context/ToastContext";
+import Layout from "./layout/Layout";
+import Home from "./pages/Home";
+import Categories from "./pages/Categories";
+import Shops from "./pages/Shops";
+import Products from "./pages/Products";
+import Cart from "./pages/Cart";
+import Orders from "./pages/Orders";
+import Profile from "./pages/Profile";
+import SignIn from "./pages/SignIn";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import NotFound from "./pages/NotFound";
 
 function App() {
   return (
-    <div id="bodyZ">
+    <AuthProvider>
+      <CartProvider>
+        <ToastProvider>
+          <Routes>
+            <Route element={<Layout />}>
+              <Route path="/" element={<Home />} />
+              <Route path="/mall/:mallId/Categories" element={<Categories />} />
+              <Route path="/mall/:mallId/Categories/:categoryId/shops" element={<Shops />} />
+              <Route path="/mall/:mallId/Categories/:categoryId/shops/:shopId/products" element={<Products />} />
+              <Route path="/cart" element={<Cart />} />
+              <Route path="/orders" element={<Orders />} />
+              <Route path="/profile" element={<Profile />} />
+              <Route path="/sign-in" element={<SignIn />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/contact" element={<Contact />} />
 
-      <div id="stateBodyz">
-        <Routes>
-          <Route path="/" element={<Homme></Homme>}></Route>
-          <Route path="/Sign-In-Now" element={<RegLogin></RegLogin>}></Route>
-          <Route path="/Home" element={<Homme></Homme>}></Route>
-          <Route path="/AboutUs" element={<About></About>}></Route>
-          <Route path="/map" element={<Map></Map>}></Route>
-          <Route path="/Malls" element={<Mall></Mall>}></Route>
-          <Route path="/cart" element={<Cart></Cart>}></Route>
-          <Route path="/contact" element={<EmailForm></EmailForm>}></Route>
-          <Route path="/Profile" element={<Profile></Profile>}></Route>
-          <Route path="/myOrders" element={<MyOrders></MyOrders>}></Route>
-          <Route
-            path="/mall/:mallId/Categories"
-            element={<Categories></Categories>}
-          ></Route>
-          <Route
-            path="/mall/:mallId/Categories/:categoryId/shops"
-            element={<Shops></Shops>}
-          ></Route>
-          <Route
-            path="/mall/:mallId/Categories/:categoryId/shops/:shopId/products"
-            element={<Products></Products>}
-          ></Route>
-        </Routes>
-      </div>
-    </div>
+              {/* Routes from the first version of the app */}
+              <Route path="/Home" element={<Navigate to="/" replace />} />
+              <Route path="/Sign-In-Now" element={<Navigate to="/sign-in" replace />} />
+              <Route path="/AboutUs" element={<Navigate to="/about" replace />} />
+              <Route path="/myOrders" element={<Navigate to="/orders" replace />} />
+              <Route path="/Profile" element={<Navigate to="/profile" replace />} />
+              <Route path="/Malls" element={<Navigate to="/" replace />} />
 
-   
+              <Route path="*" element={<NotFound />} />
+            </Route>
+          </Routes>
+        </ToastProvider>
+      </CartProvider>
+    </AuthProvider>
   );
 }
 
