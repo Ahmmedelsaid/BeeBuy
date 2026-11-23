@@ -1,22 +1,10 @@
 import React, { useEffect } from "react";
-import firebase from "firebase/compat/app";
-import "firebase/compat/auth";
-import "firebase/compat/firestore";
+import firebase from "../../firebase";
 import { GoogleMap, Marker } from "@react-google-maps/api";
 
 const MapComponent = () => {
   let map;
   let currentMarker;
-  var firebaseConfig = {
-    apiKey: "AIzaSyD9mLMTo7d-DKGa45I9Z29l7ZMvuPfLt8U",
-    authDomain: "beebuy-8d00b.firebaseapp.com",
-    projectId: "beebuy-8d00b",
-    storageBucket: "beebuy-8d00b.appspot.com",
-    messagingSenderId: "308687130467",
-    appId: "1:308687130467:web:3e511e2da94c94608bcd56",
-    measurementId: "G-J2L358R5L8"  };
-
-  firebase.initializeApp(firebaseConfig);
 
   useEffect(() => {
     const loadGoogleMapsScript = () => {

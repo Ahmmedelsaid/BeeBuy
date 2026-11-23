@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+*.rar
+*.zip

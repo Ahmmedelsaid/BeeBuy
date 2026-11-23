@@ -1,12 +1,9 @@
 import React, { useState } from "react";
+import firebase from "../../firebase";
 import { NavLink } from "react-bootstrap";
 import { FaUserAlt, FaLock, FaEnvelope, FaPhone } from "react-icons/fa";
 import inverted from "./img/inverted.png";
 import signuplogo from "./img/signuplogoo.png";
-import firebase from "firebase/compat/app";
-import "firebase/compat/auth";
-import "firebase/compat/firestore";
-import "firebase/compat/storage";
 import { useNavigate } from "react-router-dom";
 import "../style/reglogin.css";
 function RegLogin() {
@@ -29,16 +26,6 @@ function RegLogin() {
     }
   };
 
-  const firebaseConfig = {
-    apiKey: "AIzaSyD9mLMTo7d-DKGa45I9Z29l7ZMvuPfLt8U",
-    authDomain: "beebuy-8d00b.firebaseapp.com",
-    projectId: "beebuy-8d00b",
-    storageBucket: "beebuy-8d00b.appspot.com",
-    messagingSenderId: "308687130467",
-    appId: "1:308687130467:web:3e511e2da94c94608bcd56",
-    measurementId: "G-J2L358R5L8",
-  };
-  firebase.initializeApp(firebaseConfig);
   const handleSignIn = async (event) => {
     event.preventDefault();
     try {

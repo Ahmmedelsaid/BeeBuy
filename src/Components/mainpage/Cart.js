@@ -1,13 +1,10 @@
 import React, { useState, useEffect } from "react";
+import firebase from "../../firebase";
 import { FaOpencart } from "react-icons/fa";
 import "../style/Cart.css";
 import "../style/ProductsCard.css";
 
 import { Link } from "react-router-dom";
-import firebase from "firebase/compat/app";
-import "firebase/compat/auth";
-import "firebase/compat/firestore";
-import "firebase/compat/storage";
 import { useNavigate } from "react-router-dom";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
@@ -15,16 +12,6 @@ import Modal from "react-bootstrap/Modal";
 // import MapComponent from "./MapComponent";
 import NavBar from "../ComonentsSmall/NavBar";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyD9mLMTo7d-DKGa45I9Z29l7ZMvuPfLt8U",
-  authDomain: "beebuy-8d00b.firebaseapp.com",
-  projectId: "beebuy-8d00b",
-  storageBucket: "beebuy-8d00b.appspot.com",
-  messagingSenderId: "308687130467",
-  appId: "1:308687130467:web:3e511e2da94c94608bcd56",
-  measurementId: "G-J2L358R5L8",
-};
-firebase.initializeApp(firebaseConfig);
 const Cart = ({ product }) => {
   // const [totalPrice, setTotalPrice] = useState(0);
 
