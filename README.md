@@ -52,5 +52,7 @@ To use your own project, replace that config and create the `malls` collection
 
 - Routing uses `HashRouter` so deep links keep working on GitHub Pages.
 - Firebase web config is public by design; protect data with Firestore security rules.
-- Product, shop and mall images are served from Firebase Storage, which requires the Blaze plan.
-  When an image can't load, the UI shows a placeholder instead.
+- Product/shop/mall photos used to be stored in Firebase Storage, which is no longer available on the free (Spark) plan.
+  Images that are kept in [`public/images`](public/images) are served locally through [`src/imageMap.json`](src/imageMap.json)
+  (key = original file name, value = path under `public/`). Any image that can't load falls back to a coloured initials placeholder.
+  To add a photo: drop it in `public/images` and add a line to `imageMap.json`.

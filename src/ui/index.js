@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaChevronRight } from "react-icons/fa";
+import imageMap from "../imageMap.json";
 
 export function Spinner({ label = "Loading..." }) {
   return (
@@ -60,22 +61,48 @@ export function EmptyState({ icon: Icon, title, text, action }) {
 export const formatPrice = (n) =>
   `${Number(n || 0).toLocaleString("en-EG", { minimumFractionDigits: 0, maximumFractionDigits: 2 })} EGP`;
 
-const placeholder =
-  "data:image/svg+xml;utf8," +
-  encodeURIComponent(
-    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><rect width="120" height="120" fill="#f1f5f9"/><g fill="none" stroke="#cbd5e1" stroke-width="4" stroke-linejoin="round"><path d="M60 30 88 46v32L60 94 32 78V46z"/><path d="M32 46l28 16 28-16M60 62v32"/></g></svg>'
-  );
+// Product/shop photos used to live in Firebase Storage (no longer available on the free plan).
+// Files kept in public/images are served locally; see imageMap.json (key = original file name).
+const storageFileName = (url) => {
+  try {
+    return decodeURIComponent(url.split("/o/")[1].split("?")[0]).split("/").pop();
+  } catch (e) {
+    return "";
+  }
+};
 
-/** <img> that swaps to a neutral placeholder if the remote image fails to load. */
-export function SafeImage({ alt = "", ...props }) {
+export const resolveImage = (url) => {
+  if (!url || !url.includes("firebasestorage.googleapis.com")) return url;
+  const local = imageMap[storageFileName(url)];
+  return local ? `${process.env.PUBLIC_URL}/${local}` : url;
+};
+
+const initials = (text) =>
+  (text || "?")
+    .split(/s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0].toUpperCase())
+    .join("");
+
+const hueFor = (text) => [...(text || "")].reduce((h, c) => (h * 31 + c.charCodeAt(0)) % 360, 7);
+
+const makePlaceholder = (label) => {
+  const hue = 35 + (hueFor(label) % 25); // stay in the honey/amber range
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(${hue},90%,92%)"/><stop offset="1" stop-color="hsl(${hue},85%,80%)"/></linearGradient></defs><rect width="200" height="200" fill="url(#g)"/><text x="100" y="118" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-weight="700" font-size="64" fill="hsl(${hue},70%,32%)" opacity="0.85">${initials(label).replace(/[<>&]/g, "")}</text></svg>`;
+  return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+};
+
+/** <img> that serves local copies when available and falls back to a branded placeholder. */
+export function SafeImage({ alt = "", src, ...props }) {
   return (
     <img
       alt={alt}
+      src={resolveImage(src)}
       {...props}
       onError={(e) => {
         e.currentTarget.onerror = null;
-        e.currentTarget.src = placeholder;
-        e.currentTarget.classList.add("!object-contain", "p-6");
+        e.currentTarget.src = makePlaceholder(alt);
       }}
     />
   );

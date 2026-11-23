@@ -61,7 +61,7 @@ function OrdersContent() {
               {(order.UserOrder || []).map((item, i) => (
                 <li key={item.id || i} className="flex items-center gap-4 px-5 py-3">
                   <div className="h-14 w-14 shrink-0 overflow-hidden rounded-lg bg-slate-100">
-                    {item.ImageURL && <SafeImage src={item.ImageURL} alt="" className="h-full w-full object-cover" />}
+                    {item.ImageURL && <SafeImage src={item.ImageURL} alt={item.ProductName} className="h-full w-full object-cover" />}
                   </div>
                   <div className="min-w-0 flex-1">
                     <p className="truncate font-medium text-slate-900">{item.ProductName}</p>

@@ -19,19 +19,18 @@ function MallCard({ mall }) {
       onClick={() => navigate(`/mall/${mall.id}/Categories`)}
       className="group card overflow-hidden text-left transition hover:-translate-y-1 hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
     >
-      <div className="relative aspect-[16/10] overflow-hidden bg-slate-100">
+      <div className="flex aspect-[16/10] items-center justify-center overflow-hidden border-b border-slate-100 bg-white p-6">
         {mall.imageUrl && (
           <SafeImage
             src={mall.imageUrl}
             alt={mall.name}
             loading="lazy"
-            className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+            className="max-h-full max-w-full object-contain transition duration-500 group-hover:scale-105"
           />
         )}
-        <div className="absolute inset-0 bg-gradient-to-t from-slate-900/70 via-transparent to-transparent" />
-        <h3 className="absolute bottom-3 left-4 right-4 text-xl font-bold text-white">{mall.name}</h3>
       </div>
-      <div className="p-4">
+      <div className="p-5">
+        <h3 className="text-xl font-bold text-slate-900">{mall.name}</h3>
         <p className="flex items-center gap-2 text-sm text-slate-500">
           <FaMapMarkerAlt className="text-brand-500" /> {mall.address}
         </p>

@@ -14,3 +14,12 @@ test("EmptyState renders its title and text", () => {
   expect(screen.getByText("Nothing here")).toBeInTheDocument();
   expect(screen.getByText("Come back later")).toBeInTheDocument();
 });
+
+test("resolveImage maps known Storage files to local copies and leaves other urls alone", () => {
+  const { resolveImage } = require("./index");
+  const storage = "https://firebasestorage.googleapis.com/v0/b/x.appspot.com/o/malls%2Fcity.jpg?alt=media&token=t";
+  expect(resolveImage(storage)).toMatch(/images\/city\.jpg$/);
+  const unknown = "https://firebasestorage.googleapis.com/v0/b/x.appspot.com/o/Products%2Fa%2Fnope.webp?alt=media";
+  expect(resolveImage(unknown)).toBe(unknown);
+  expect(resolveImage("https://example.com/a.png")).toBe("https://example.com/a.png");
+});
