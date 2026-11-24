@@ -7,42 +7,41 @@ import { useCart } from "../context/CartContext";
 import { useToast } from "../context/ToastContext";
 import { Breadcrumbs, PageHeader, Spinner, formatPrice, SafeImage } from "../ui";
 import useFirestoreList from "../ui/useFirestoreList";
+import { useCatalog } from "../context/CatalogContext";
+import { categoryPath, mallPath } from "../ui/slug";
+import NotFound from "./NotFound";
 
 export default function Products() {
-  const { mallId, categoryId, shopId } = useParams();
+  const { mallSlug, categorySlug, shopSlug } = useParams();
   const { user } = useAuth();
   const { addItem } = useCart();
+  const { malls, loading: catalogLoading } = useCatalog();
   const notify = useToast();
   const navigate = useNavigate();
   const location = useLocation();
   const [query, setQuery] = useState("");
   const [adding, setAdding] = useState(null);
 
-  const db = firebase.firestore();
-  const mallRef = db.collection("malls").doc(mallId);
-  const categoryRef = mallRef.collection("Categories").doc(categoryId);
-  const shopRef = categoryRef.collection("shops").doc(shopId);
+  const mall = malls.find((m) => m.slug === mallSlug);
+  const category = mall && mall.cats.find((c) => c.slug === categorySlug);
+  const shop = category && category.shops.find((s) => s.slug === shopSlug);
+  const mallName = mall && mall.name;
+  const shopName = shop && shop.name;
 
-  const { data: products, loading, error } = useFirestoreList(
-    () => shopRef.collection("products").get(),
-    [mallId, categoryId, shopId]
+  const { data: products, loading: productsLoading, error } = useFirestoreList(
+    () =>
+      shop
+        ? firebase
+            .firestore()
+            .collection("malls").doc(mall.id)
+            .collection("Categories").doc(category.id)
+            .collection("shops").doc(shop.id)
+            .collection("products")
+            .get()
+        : Promise.resolve({ docs: [] }),
+    [shop && shop.id]
   );
-  const { data: names } = useFirestoreList(
-    async () => {
-      const [mall, category, shop] = await Promise.all([mallRef.get(), categoryRef.get(), shopRef.get()]);
-      return {
-        docs: [
-          { id: "mall", data: () => mall.data() || {} },
-          { id: "category", data: () => category.data() || {} },
-          { id: "shop", data: () => shop.data() || {} },
-        ],
-      };
-    },
-    [mallId, categoryId, shopId]
-  );
-  const mallName = names.find((n) => n.id === "mall")?.name;
-  const categoryName = names.find((n) => n.id === "category")?.name;
-  const shopName = names.find((n) => n.id === "shop")?.name;
+  const loading = catalogLoading || productsLoading;
 
   const visible = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -68,13 +67,15 @@ export default function Products() {
     }
   };
 
+  if (!catalogLoading && !shop) return <NotFound />;
+
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <Breadcrumbs
         items={[
           { label: "Home", to: "/" },
-          { label: mallName || "Mall", to: `/mall/${mallId}/Categories` },
-          { label: categoryName || "Category", to: `/mall/${mallId}/Categories/${categoryId}/shops` },
+          { label: mallName || "Mall", to: mall ? mallPath(mall) : "/" },
+          { label: category ? category.name : "Category", to: mall && category ? categoryPath(mall, category) : "/" },
           { label: shopName || "Shop" },
         ]}
       />

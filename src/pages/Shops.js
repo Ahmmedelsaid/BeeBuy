@@ -1,43 +1,39 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { FaMapMarkerAlt, FaStore } from "react-icons/fa";
-import firebase from "../firebase";
-import { Breadcrumbs, PageHeader, Spinner, SafeImage } from "../ui";
-import useFirestoreList from "../ui/useFirestoreList";
+import { useCatalog } from "../context/CatalogContext";
+import { mallPath, shopPath } from "../ui/slug";
+import { Breadcrumbs, PageHeader, SafeImage, Spinner } from "../ui";
+import NotFound from "./NotFound";
 
 export default function Shops() {
-  const { mallId, categoryId } = useParams();
-  const category = () => firebase.firestore().collection("malls").doc(mallId).collection("Categories");
+  const { mallSlug, categorySlug } = useParams();
+  const { malls, loading, error } = useCatalog();
+  const mall = malls.find((m) => m.slug === mallSlug);
+  const category = mall && mall.cats.find((c) => c.slug === categorySlug);
 
-  const { data: shops, loading, error } = useFirestoreList(
-    () => category().doc(categoryId).collection("shops").get(),
-    [mallId, categoryId]
-  );
-  const { data: categories } = useFirestoreList(() => category().get(), [mallId]);
-  const categoryName = categories.find((c) => c.id === categoryId)?.name;
+  if (loading) return <Spinner />;
+  if (error) return <p className="card mx-auto my-16 max-w-md p-6 text-center text-slate-500">Couldn't load shops.</p>;
+  if (!category) return <NotFound />;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <Breadcrumbs
         items={[
           { label: "Home", to: "/" },
-          { label: "Categories", to: `/mall/${mallId}/Categories` },
-          { label: categoryName || "Shops" },
+          { label: mall.name, to: mallPath(mall) },
+          { label: category.name },
         ]}
       />
-      <PageHeader title={categoryName ? `${categoryName} shops` : "Shops"} subtitle="Pick a shop to see its products." />
+      <PageHeader title={`${category.name} shops`} subtitle="Pick a shop to see its products." />
 
-      {loading && <Spinner />}
-      {error && <p className="card p-6 text-center text-slate-500">Couldn't load shops.</p>}
-      {!loading && !error && shops.length === 0 && (
-        <p className="card p-6 text-center text-slate-500">No shops in this category yet.</p>
-      )}
+      {category.shops.length === 0 && <p className="card p-6 text-center text-slate-500">No shops in this category yet.</p>}
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {shops.map((shop) => (
+        {category.shops.map((shop) => (
           <Link
             key={shop.id}
-            to={`/mall/${mallId}/Categories/${categoryId}/shops/${shop.id}/products`}
+            to={shopPath(mall, category, shop)}
             className="card group flex items-center gap-4 p-4 transition hover:-translate-y-1 hover:border-brand-300 hover:shadow-md"
           >
             <div className="flex h-20 w-20 shrink-0 items-center justify-center overflow-hidden rounded-xl bg-slate-100">

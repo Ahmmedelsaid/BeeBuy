@@ -1,10 +1,10 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { FaMapMarkerAlt, FaShieldAlt, FaShippingFast, FaStore } from "react-icons/fa";
-import firebase from "../firebase";
 import logo from "../assets/logo.png";
+import { useCatalog } from "../context/CatalogContext";
+import { mallPath } from "../ui/slug";
 import { PageHeader, Spinner, SafeImage } from "../ui";
-import useFirestoreList from "../ui/useFirestoreList";
 
 const features = [
   { icon: FaStore, title: "Browse real malls", text: "Walk through malls, categories and shops without leaving home." },
@@ -16,7 +16,7 @@ function MallCard({ mall }) {
   const navigate = useNavigate();
   return (
     <button
-      onClick={() => navigate(`/mall/${mall.id}/Categories`)}
+      onClick={() => navigate(mallPath(mall))}
       className="group card overflow-hidden text-left transition hover:-translate-y-1 hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
     >
       <div className="flex aspect-[16/10] items-center justify-center overflow-hidden border-b border-slate-100 bg-white p-6">
@@ -44,7 +44,7 @@ function MallCard({ mall }) {
 }
 
 export default function Home() {
-  const { data: malls, loading, error } = useFirestoreList(() => firebase.firestore().collection("malls").get(), []);
+  const { malls, loading, error } = useCatalog();
 
   return (
     <>
@@ -63,9 +63,12 @@ export default function Home() {
               Pick a mall, explore its shops, add products to your cart and have them delivered to your door.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <a href="#malls" className="btn-primary">
+              <button
+                onClick={() => document.getElementById("malls")?.scrollIntoView({ behavior: "smooth" })}
+                className="btn-primary"
+              >
                 Start shopping
-              </a>
+              </button>
               <Link to="/about" className="btn btn-ghost !border-slate-600 !bg-transparent !text-white hover:!bg-slate-800">
                 How it works
               </Link>
