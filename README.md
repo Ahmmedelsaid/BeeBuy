@@ -52,7 +52,11 @@ To use your own project, replace that config and create the `malls` collection
 
 - Routing uses `HashRouter` so deep links keep working on GitHub Pages.
 - Firebase web config is public by design; protect data with Firestore security rules.
-- Product/shop/mall photos used to be stored in Firebase Storage, which is no longer available on the free (Spark) plan.
-  Images that are kept in [`public/images`](public/images) are served locally through [`src/imageMap.json`](src/imageMap.json)
-  (key = original file name, value = path under `public/`). Any image that can't load falls back to a coloured initials placeholder.
-  To add a photo: drop it in `public/images` and add a line to `imageMap.json`.
+- Photos used to live in Firebase Storage, which is not available on the free (Spark) plan. Images now live in
+  [`public/images`](public/images): shop logos and product photos are referenced by relative path
+  (`images/products/...`), and old Storage URLs are mapped through [`src/imageMap.json`](src/imageMap.json).
+  Any image that can't load falls back to a coloured initials placeholder.
+- [`scripts/seed-products.js`](scripts/seed-products.js) shows how the catalog was refreshed;
+  [`backup/`](backup) has the catalog as it was before.
+- **Security:** [`firestore.rules`](firestore.rules) contains locked-down rules (public read-only catalog, per-user
+  access to profile/cart/orders). Publish them in Firebase Console -> Firestore -> Rules.

@@ -59,7 +59,7 @@ export function EmptyState({ icon: Icon, title, text, action }) {
 }
 
 export const formatPrice = (n) =>
-  `${Number(n || 0).toLocaleString("en-EG", { minimumFractionDigits: 0, maximumFractionDigits: 2 })} EGP`;
+  `${Number(String(n ?? 0).replace(/,/g, "") || 0).toLocaleString("en-EG", { minimumFractionDigits: 0, maximumFractionDigits: 2 })} EGP`;
 
 // Product/shop photos used to live in Firebase Storage (no longer available on the free plan).
 // Files kept in public/images are served locally; see imageMap.json (key = original file name).
@@ -72,7 +72,10 @@ const storageFileName = (url) => {
 };
 
 export const resolveImage = (url) => {
-  if (!url || !url.includes("firebasestorage.googleapis.com")) return url;
+  if (!url) return url;
+  // Relative paths (e.g. "images/products/...") live in public/.
+  if (!/^(https?:)?\/\/|^data:/.test(url)) return `${process.env.PUBLIC_URL}/${url.replace(/^\//, "")}`;
+  if (!url.includes("firebasestorage.googleapis.com")) return url;
   const local = imageMap[storageFileName(url)];
   return local ? `${process.env.PUBLIC_URL}/${local}` : url;
 };

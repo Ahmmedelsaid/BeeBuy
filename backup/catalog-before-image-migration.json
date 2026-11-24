@@ -1,0 +1,1977 @@
+[
+ {
+  "id": "3arpKxzX5QpFDkZmzGGg",
+  "address": "Nasr City",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/malls%2Fcity.jpg?alt=media&token=a183ab65-5c36-4ebc-aa6f-95224118f4e1",
+  "name": "City Stars",
+  "cats": [
+   {
+    "id": "C80L2wC15SIaEjaY9R0o",
+    "MallName": "City Stars",
+    "name": "Men's Wear",
+    "shops": [
+     {
+      "id": "PhlEdBahDQbIcyVgss8F",
+      "name": "Adidas Originals",
+      "address": "Level 4",
+      "mallName": "City Stars",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FAdidas-logo.webp?alt=media&token=ceab0be2-c225-472e-838d-cd41f70e2e3a",
+      "category": "Men's Wear",
+      "products": [
+       {
+        "id": "0eVpFZDOuhXVOXIZzuHv",
+        "name": "ADICOLOR CLASSICS TREFOIL TEE",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F4232d85773d5482f8d66ad04012dff87_9366.webp?alt=media&token=5e724052-b96b-4246-8509-81b0d7e2bf2d",
+        "mallName": "City Stars",
+        "description": "A CASUAL TEE WITH BIG ADIDAS ENERGY. The Trefoil logo is steeped in sport and style history. But it's about more than that. It represents a fearless energy and a clan of creators striving to be their best at every step. Slip into the comfort of this adidas t-shirt and show it off. By buying cotton products from us, you're supporting more sustainable cotton farming.",
+        "category": "Men's Wear",
+        "price": "569.40",
+        "storeName": "Adidas Originals"
+       },
+       {
+        "id": "27qJyQyJrca7HOFU0tt5",
+        "description": "A COMFORTABLE TEE INSPIRED BY THE ARCHIVES. Archival cut lines highlighted with piping details give this adidas t-shirt its effortlessly cool retro style. From lounging around at home to getting food with friends, you'll be comfortable all day long in soft cotton. A Trefoil logo brings the look home for an everyday staple that is anything but ordinary. Our cotton products support more sustainable cotton farming.",
+        "name": "ADICOLOR SEASONAL ARCHIVE TEE",
+        "category": "Men's Wear",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2Feaaf8de4820e49e1ade3af3400758fbb_9366.webp?alt=media&token=a8a0791b-0147-42f4-beb7-cf8f64275d51",
+        "mallName": "City Stars",
+        "price": "1749.00"
+       },
+       {
+        "id": "4Mc3V49wNuUEW3JbFQYc",
+        "price": "3749.00",
+        "category": "Men's Wear",
+        "storeName": "Adidas Originals",
+        "description": "STYLISH, LOOSE-FITTING HOODIE WITH A KANGAROO POUCH DESIGN. Celebrate love in all its forms with the Valentine's Day Future Lounge selection. Clashing reds and pinks invite you to share the love, while bold slogans and cozy designs make it easy to spread feel-good vibes on V-Day and beyond. From me-time to we-time — the Valentine's Day Hoodie is designed to go the distance. The stylish yet laidback design is ideal for outdoor link ups and hardcore lounging alike, while the soft French Terry fabric adds a heavyweight feel for that unique loungewear feeling. A certified wardrobe favorite for you (and all the other hoodie lovers in your life).",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2FIL8300_HM1.jpg?alt=media&token=9dd0e9f0-2b98-4a33-aa60-b8362237c225",
+        "mallName": "City Stars",
+        "name": "VALENTINE'S DAY HOODIE"
+       },
+       {
+        "id": "4ZQnMiCtLW4ITmnXL96M",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F0acd7aa4d8a243eaba2aae9e00c2eb45_9366.webp?alt=media&token=18a77f60-a4f6-4410-9cee-ddb130b2eb5a",
+        "storeName": "Adidas Originals",
+        "mallName": "City Stars",
+        "name": "FUTURE ICONS 3-STRIPES SHORTS",
+        "price": "551.60",
+        "description": "Train like a champ, then rest like one in these soft adidas shorts. The cotton and polyester doubleknit fabric is thick and cosy. The elastic drawcord waist rests smoothly against your skin, but can be tightened if you do have to leave the couch. Just pair with slip-on sneakers for a totally hassle-free look. Made in part with recycled content generated from production waste, eg. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content.",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "5Zc5tEnyJdTmI0DAymQS",
+        "name": "ADICOLOR CLASSICS SPORTS SHORTS",
+        "description": "TENNIS-INSPIRED SHORTS MADE IN PART WITH RECYCLED CONTENT. There is no denying the tennis influence on these adidas shorts. From the fit to the ultra-soft towel terry material, they have everything you need to look the part, without actually doing a thing. All you'll do in these shorts? Be comfortable. (Okay, sure, you'll probably do more than that, but the point is you don't need to.) Made in part with recycled content generated from production waste, e.g. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content.",
+        "category": "Men's Wear",
+        "price": "651.60",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F51670cfb0fd24e6a88aaae9a003875dc_9366.webp?alt=media&token=b32987a4-7c81-4eb6-a87b-cdc619f4f049",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "9o0ZMdwMGYXlAwWvTfNW",
+        "name": "ARGENTINA TIRO 23 HOODIE",
+        "description": "A SOFT HOODIE FOR ARGENTINA FANS, MADE IN PART WITH RECYCLED MATERIALS. When the biggest prizes are in your sights, focus is everything. This adidas football hoodie keeps Argentina's players comfortable when they're relaxing at the training ground. Moisture-wicking AEROREADY, soft French terry fabric and a lined hood make it easy to tune everything out during your downtime, so you can hit the pitch with renewed purpose. Made with a series of recycled materials, and at least 60% recycled content, this product represents just one of our solutions to help end plastic waste.",
+        "category": "Men's Wear",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F8229265faebe43d1966caebb011a15cd_9366.webp?alt=media&token=eca6d766-9311-4596-9468-ddc3e6003314",
+        "price": "899.60",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "AscaHU5lBpZ58pJTfsUk",
+        "mallName": "City Stars",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2FAJ5884_01_laydown.jpg?alt=media&token=a14651a5-a636-40d8-9422-45c69d667460",
+        "name": "PARMA 16 SHORTS",
+        "category": "Men's Wear",
+        "price": "314.50",
+        "description": "MOISTURE-WICKING SHORTS FOR FOOTBALL TRAINING. Awe-inspiring moments don't happen in the match unless you put in the time to train. Hone your striking and ball-handling skills in these lightweight football shorts. Not only does the fabric keep you dry, it's also made using recycled materials to help end plastic waste."
+       },
+       {
+        "id": "JJCjn5dX1ExiBGnC10zW",
+        "name": "ARGENTINA TIRO 23 DOWNTIME SHORTS",
+        "mallName": "City Stars",
+        "storeName": "Adidas Originals",
+        "description": "WOVEN SHORTS CREATED FOR RELAXING AND MADE WITH RECYCLED MATERIALS. When the biggest prizes are in your sights, focus is everything. That means relaxation should be taken as seriously as hard work. While they're kicking back between training sessions, Argentina players pull on adidas football shorts like these ones. Pockets on the sides provide storage for valuables. That embroidered badge shows you consider yourself part of the squad. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "price": "749.50",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2Fde2f8d4043944979b346aeb700c0c6ee_9366.webp?alt=media&token=27464085-f98c-43ff-9a23-56f56f362c87",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "MBLQCQgpBh6wYRDj83Ip",
+        "description": "A SOFT HOODIE FOR ARGENTINA FANS. Argentina DNA. 3-Stripes style. Show your appreciation for first-class football in this adidas hoodie. Created to keep you comfortable while you rep your team, this French terry top has an adjustable hood and deep kangaroo pockets. That golden embroidered badge is the star of the show. Our cotton products support more sustainable cotton farming.",
+        "category": "Men's Wear",
+        "name": "ARGENTINA 3-STRIPES FULL-ZIP HOODIE",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F87e0c384153840a9813bae8000a2fb4a_9366.webp?alt=media&token=b84550ec-27be-4adf-b657-b394ec0d293c",
+        "storeName": "Adidas Originals",
+        "price": "1124.50",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "P2sWnkGDbdKSlBVdo4Pr",
+        "mallName": "City Stars",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F7d0c7bc0090541c7bdf9ae9800af66af_9366.webp?alt=media&token=27461c32-ba3d-4d76-9a94-1ea7f0c8d6fe",
+        "name": "TERREX MULTI TEE",
+        "description": "A QUICK-DRYING TEE FOR TRAIL OR GYM, MADE WITH RECYCLED MATERIALS. The workout t-shirt, reinvented. This adidas Terrex Multi Tee is made with moisture-managing AEROREADY to keep you dry and focused, whether you're hiking, running, or hitting the gym. Offset shoulder seams reduce chafing under a backpack, and an extended back hem adds coverage where you need it.",
+        "category": "Men's Wear",
+        "price": "599.50"
+       },
+       {
+        "id": "aNxmmJHtRI4Y68IgoFry",
+        "name": "INDIGO HERZ FUR HOODIE",
+        "mallName": "City Stars",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2FIJ9087_HM1.jpg?alt=media&token=0e9521c3-a235-4551-b762-326b1397cb4a",
+        "description": "A COZY FAUX FUR HOODIE INSPIRED BY INDIGO HERZ. Welcome to a new age of originality. Inspired by the adidas Originals-owned NFT, the Indigo Herz Drop is an invitation to self-express without limitations. No matter which world you're in. Hoodies are comfy, but even great things can get better. The adidas Indigo Herz Fur Hoodie levels up the cozy factor with faux fur that's inspired by its namesake and peach-soft to the touch. Classic details — like a hood and the iconic 3-Stripes — create a signature silhouette that easily pairs with everything in your wardrobe.",
+        "category": "Men's Wear",
+        "price": "4249.00"
+       },
+       {
+        "id": "ibs0TmM6xvwvSIZp35Zt",
+        "category": "Men's Wear",
+        "storeName": "Adidas Originals",
+        "mallName": "City Stars",
+        "price": "1749.00",
+        "name": "OWN THE RUN SEASONAL TEE",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F1f8d4268804842038aefaef600d0e528_9366.webp?alt=media&token=5b62f11f-1f67-466c-9ef8-0c6ec526d5b9",
+        "description": "A MOISTURE-ABSORBING TEE MADE WITH RECYCLED MATERIALS. Your everyday t-shirt doesn't have to look or feel basic. This classic adidas crewneck tee is made from 100% recycled polyester mesh, which makes for a super-breathable shirt and a cooler run on a hot day. Stay dry and comfortable with moisture-absorbing AEROREADY. Reflective details add shine after sunset. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste."
+       },
+       {
+        "id": "lHHC55uaZIpY7hgx6I6h",
+        "mallName": "City Stars",
+        "price": "3249.00",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2F54d6fa13e8484660a839af370179f683_9366.webp?alt=media&token=e5e49573-be73-4427-924d-c98256c7ad3d",
+        "category": "Men's Wear",
+        "description": "MODERN RETRO RUNNING SHOES MADE IN PART WITH RECYCLED MATERIALS. Celebrate the '70s in these adidas runners, and pay homage to a time when polyester suits were in and shag carpets were so thick you could do snow angels in them. The leather upper in this snappy rework of those running classics takes you back to the \"me decade,\" no disco dancing required. 3-Stripes and adidas graphics on the tongue and heel tab complete the look.",
+        "name": "RUN 70S LIFESTYLE RUNNING SHOES"
+       },
+       {
+        "id": "qlE51M13rKPpXxo6R79e",
+        "mallName": "City Stars",
+        "price": "4249.00",
+        "storeName": "Adidas Originals",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2FHP6619_01_standard.jpg?alt=media&token=a07b31a6-51fe-4612-a1ca-75253944e761",
+        "category": "Men's Wear",
+        "description": "VERSATILE SHOES WITH A SPRINGY FEEL, MADE IN PART WITH RECYCLED MATERIALS. Go for that walk around the neighbourhood or head to the gym in a pair of adidas Alphabounce+ shoes. The mesh upper is soft and breathable to keep you comfortable as you go. A Bounce midsole makes the ride soft and springy while Cloudfoam on the heel cushions every step, so you can cruise smoothly through the day.",
+        "name": "ALPHABOUNCE+ SUSTAINABLE BOUNCE SHOES"
+       },
+       {
+        "id": "xWVhxV6TrSplQCAStfPa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FPhlEdBahDQbIcyVgss8F%2Fcde9362a09ba4dd38c9ead6600ac074e_9366.webp?alt=media&token=0898dc3c-9743-4426-b060-6f24ff7053db",
+        "name": "DURAMO 10 SHOES",
+        "mallName": "City Stars",
+        "price": "2749.00",
+        "category": "Men's Wear",
+        "description": "DAILY-WEAR RUNNING SHOES, MADE IN PART WITH RECYCLED MATERIALS. From a morning gym session to a day of errands to an evening with friends, keep your feet comfortable and your style on point in these adidas shoes. Pair them with your favourite running shorts for the ultimate athletic-casual vibe. A mesh upper helps you stay cool, while superlight cushioning cradles every step you take. Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste.",
+        "storeName": "Adidas Originals"
+       }
+      ]
+     },
+     {
+      "id": "W6odVbkWYqUwaHRH0QEp",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FGuess-196x196.png?alt=media&token=3bb214ba-8c31-481c-801d-f342f1827204",
+      "category": "Men's Wear",
+      "mallName": "City Stars",
+      "name": "Guess",
+      "address": "Level 5",
+      "products": [
+       {
+        "id": "4UeasGR1v3YOHZWZbNVv",
+        "name": "Triangle Logo T-Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM0BI1JR9YK0_G011_01.jpg?alt=media&token=c6512bc7-8d75-43d0-8d63-977f2d6b2f5a",
+        "mallName": "City Stars",
+        "category": "Men's Wear",
+        "description": "Organic cotton t-shirt. Round neck. Short sleeves. Slim fit. Logo triangle at the front. SHELL (main fabric): 100% Cotton. WASH LABEL: Machine wash max. 30°C. Picture shows size M. Total length: 71.2 cm / 28 in. True to size.",
+        "storeName": "Guess",
+        "price": "1608"
+       },
+       {
+        "id": "BqyKHXb12CPyuq06ElBk",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2F32211_One_01.jpg?alt=media&token=da3f5530-7170-4725-8d81-1b4e09df0a26",
+        "description": "Introducing 1981 Los Angeles for Men, a scent that perfectly captures California vibes, a modern fragrance that opens with refreshing Bergamot and black pepper, the heart reveals geranium and red ginger. Textured and earthy sandalwood,vetiver and amber round out the base.",
+        "storeName": "Guess",
+        "price": "1299",
+        "name": "Gs 1981 Los Angeles Homme Edt 100Ml",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "Dq8Dc1fdodlQUF4x6ekF",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FVG841619_LGC_01.jpg?alt=media&token=7672a79c-fa53-4dd0-a1ec-95f3ac893084",
+        "name": "Alexie Crossbody Flap",
+        "price": "3780",
+        "description": "Dimensions: 23 X 7 X 15 Note: Above dimensions are as follows - length x width x height",
+        "category": "Men's Wear",
+        "storeName": "Guess"
+       },
+       {
+        "id": "EdeeBESMhHT4CfveFNgV",
+        "storeName": "Guess",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM0BI1JR9YK0_F5C5_01.jpg?alt=media&token=2b6a9312-8cb9-485b-bfe6-212bd18c38c4",
+        "mallName": "City Stars",
+        "description": "Organic cotton t-shirt. Round neck. Short sleeves. Slim fit. Logo triangle at the front. SHELL (main fabric): 100% Cotton. WASH LABEL: Machine wash max. 30°C. Picture shows size M. Total length: 71.2 cm / 28 in. True to size.",
+        "price": "1608",
+        "name": "Triangle Logo T-Shirt",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "Fs9ytAeYtpOtHkuyOLvQ",
+        "description": "A cool pair of sunglasses featuring a vintage aviator frame, high-polish brow detail and ombre lenses.",
+        "category": "Men's Wear",
+        "storeName": "Guess",
+        "price": "3670",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FGU0003952V61_52V_01.jpg?alt=media&token=d9a56e0f-6bb5-493b-a4c7-b8dbaf163a5e",
+        "name": "Aviator Sunglasses"
+       },
+       {
+        "id": "SFmFEkmbSJ9mirDcZR5J",
+        "category": "Men's Wear",
+        "description": "Organic Cotton T-Shirt.Crew neck.Short sleeves.Slim fit.FABRIC TYPE: Jersey.Triangle logo.SHELL (main fabric): 100% Cotton.WASH LABEL: wash max 30°C.Picture shows size M.MEASUREMENTS: Total length: 70,3 cm/27,76True to size.",
+        "name": "Triangle Logo T-Shirt",
+        "price": "1076",
+        "storeName": "Guess",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM1RI36I3Z11-JBLK_01.jpg?alt=media&token=03ccbae3-6040-42f2-89e3-3fef4fefdc70"
+       },
+       {
+        "id": "UY3rGUAvqysW7mHL2wrz",
+        "price": "1076",
+        "category": "Men's Wear",
+        "storeName": "Guess",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM1RI37I3Z11_G011_01.jpg?alt=media&token=efa0e5e3-01fa-405a-9302-40ccd66ed055",
+        "description": "Organic Cotton t-shirt. V neck. Short sleeves. Regular fit. EMBELLISHMENTS: Logo triangle. SHELL (main fabric): 1% Cotton. WASH LABEL: Wash at 3°C max. Picture shows size M. MEASUREMENTS: Total length approx.: 7 cm / 27.56 in. True to size.",
+        "name": "Logo V-Neck T-Shirt"
+       },
+       {
+        "id": "V0V4YvmDjnWPpeOnXlgM",
+        "name": "Chino Pants",
+        "category": "Men's Wear",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM2YB28WESD3_G8F6_04.jpg?alt=media&token=5bbccde8-86a5-4e6d-a100-39c8184dd6a6",
+        "description": "Chino pants made in a cotton fabrication and featuring a slim leg.",
+        "price": "5340",
+        "storeName": "Guess"
+       },
+       {
+        "id": "a4ripWOZSYHzGq0UrrNT",
+        "description": "This rose gold multifunctional watch features a sunray dial and textured blue band.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FGW0206G2_ROSEGO_01.jpg?alt=media&token=b090fbf7-6a9a-409f-a88f-62a9075c7725",
+        "mallName": "City Stars",
+        "price": "8265",
+        "storeName": "Guess",
+        "name": "Blue And Rose Gold Watch",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "jWl4ySPq6jZ5lLJVp94Z",
+        "name": "Adjustable Belt",
+        "price": "2965 EGP",
+        "category": "Men's Wear",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FBM7558LEA30_BLA_01.jpg?alt=media&token=3927827a-23b2-46fe-b43b-492910bb4499",
+        "description": "Adjustable Belt",
+        "storeName": "Guess"
+       },
+       {
+        "id": "klxES25Nztn59IdkvDLQ",
+        "price": "2240",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM1RI31I3Z11_A996_01.jpg?alt=media&token=8d9fe7b9-3270-4657-a417-f7c33e76b719",
+        "storeName": "Guess",
+        "description": "Organic Cotton T-Shirt.Round neck.Long sleeves.Slim fit.FABRIC TYPE: Jersey.Triangle logo.SHELL (main fabric): 100%Cotton.WASH LABEL: Wash max 30°C.Picture shows size M.Total lenght: 27,56 in / 70 cm.Sleeve lenght: 25,59 in / 65 cm.True to size.",
+        "name": "Triangle Logo T-Shirt",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "n865Ck8hjIMo3ACVyXgS",
+        "category": "Men's Wear",
+        "description": "Synthetic fabric Jacket. High neck. Long sleeves. Front Zip fastening. Comfort fit. PADDING: Real down. OTHER DETAILS: Packable. Side pockets. SHELL (main fabric): 100% Polyamide; LINING: 100% Polyamide. WASH LABEL: Hand wash in cold water. Picture shows size M. Total lenght: 26,77 in / 68 cm. Sleeve lenght: 26,38 in / 67 cm. True to size.",
+        "price": "8065",
+        "name": "Packable Padded Jacket",
+        "storeName": "Guess",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM1RL47WDQ50_G1CA_01.jpg?alt=media&token=d3ff9bff-67d4-4f2b-b0e4-e9829345264d"
+       },
+       {
+        "id": "rUzUyVH4zjFUR90xJO03",
+        "price": "4800",
+        "storeName": "Guess",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM2YA27D4Q42_2CRM_01.jpg?alt=media&token=37a06f7b-4533-4c25-ae4f-d161f72b1d9d",
+        "mallName": "City Stars",
+        "name": "Skinny Fit Denim Pant",
+        "category": "Men's Wear",
+        "description": "Cotton blend denim pant. Skinny Fit. Low Rise, Skinny Leg. Classic 5-pockets. Front Zip and button fastening. STYLE: CHRIS. FABRIC TYPE: Bi-Stretch Denim. TREATMENTS: Dark wash. Picture shows size 32. The item is available in two lengths:Length 32: inseam length 32 inch. / 81,3 cm; Length 34: inseam length 34 inch. / 86,4 cm. True to size. SHELL (main fabric): 99% Cotton 1% Elastane. WASH LABEL: Wash max 30Â°C. This item contains recycled cotton fibers."
+       },
+       {
+        "id": "uz7DtxCWJzdfuxYYDf2W",
+        "storeName": "Guess",
+        "name": "Tape Joggers",
+        "price": "4380",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FZ2YB04KB6R2_G9L9_01.jpg?alt=media&token=de3f93dd-71fa-4ec6-986c-8421b1b18275",
+        "mallName": "City Stars",
+        "category": "Men's Wear",
+        "description": "Relaxation just got better. These fleece joggers feature a drawstring waist, front pockets and logo tape along the sides."
+       },
+       {
+        "id": "zYbwojXRNbzzVNJqUG54",
+        "name": "Triangle Logo T-Shirt",
+        "description": "Organic Cotton T-Shirt.Round neck.Short sleeves.Slim fit.FABRIC TYPE: Jersey.Triangle logo.SHELL (main fabric): 100%Cotton.WASH LABEL: Wash max 30°C.Picture shows size M.Total lenght: 27,56 in / 70 cm.True to size.",
+        "storeName": "Guess",
+        "category": "Men's Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FW6odVbkWYqUwaHRH0QEp%2FM1RI71I3Z11-G3H9_01.jpg?alt=media&token=1466df67-cec9-4d46-ab08-7d18943c8c30",
+        "mallName": "City Stars",
+        "price": "1256"
+       }
+      ]
+     },
+     {
+      "id": "ZZUhg82VE5fQqlqnAIzw",
+      "address": "Level 3",
+      "category": "Men's Wear",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FBJKvr7DKGx-main.jpg?alt=media&token=33168153-7874-461d-8d91-bd023896c48c",
+      "mallName": "City Stars",
+      "name": "Calvin Klein Jeans",
+      "products": [
+       {
+        "id": "5m6qcKesqg8xKnTGjmtv",
+        "price": "2370",
+        "name": "Calvin Klein Jeans – nylon jogging pants",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J312251.2.jpg?alt=media&token=a45fe317-b450-492d-a9b9-28ea8e82c277",
+        "description": "Calvin Klein Jeans – nylon jogging pants",
+        "mallName": "City Stars",
+        "category": "Men's Wear",
+        "storeName": "Calvin Klein Jeans"
+       },
+       {
+        "id": "CCcrGOuy8yMDXHymUnYT",
+        "category": "Men's Wear",
+        "mallName": "City Stars",
+        "description": "Calvin Klein Jeans – oversized zip up hoodie",
+        "storeName": "Calvin Klein Jeans",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ20J218102-Eggshell.1-768x1025.jpg?alt=media&token=29b40c21-76c3-4a9b-92a3-f0e4776909ac",
+        "name": "Calvin Klein Jeans – oversized zip up hoodie",
+        "price": "2770"
+       },
+       {
+        "id": "ER1dvBJnI0gJVe3aAcM7",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2F00GMF1W300-Barbados-Cherry-Ck-Black-1.jpg?alt=media&token=5ddaf06c-922c-42fb-876a-3033ab6f393d",
+        "storeName": "Calvin Klein Jeans",
+        "name": "Calvin Klein – logo tape fleece sweatshirt regular fit",
+        "description": "Calvin Klein – logo tape fleece sweatshirt regular fit – men",
+        "price": "2310",
+        "category": "Men's Wear",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "SNXphsCriw2jjJGx4bXI",
+        "price": "2915",
+        "category": "Men's Wear",
+        "name": "Calvin Klein Jeans – logo seasonal waistband galfos regular fit",
+        "mallName": "City Stars",
+        "description": "Calvin Klein Jeans – logo seasonal waistband galfos regular fit – men",
+        "storeName": "Calvin Klein Jeans",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J320054-MID-GREY-HEATHER.1-768x1075.jpg?alt=media&token=1f539820-d354-4c29-a993-39e7cfa03832"
+       },
+       {
+        "id": "ToZ7lMNO2S8WXHP7r3eT",
+        "storeName": "Calvin Klein Jeans",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ20J218703-Tawny-Sand.1-768x1024.jpg?alt=media&token=9aed51c2-1fa7-4997-9823-dcf9091a3bea",
+        "category": "Men's Wear",
+        "mallName": "City Stars",
+        "name": "Calvin Klein Jeans – jogging pants regular fit",
+        "price": "2010",
+        "description": "Calvin Klein Jeans – jogging pants regular fit"
+       },
+       {
+        "id": "b6cWaKAL4eetoGvxYBgv",
+        "price": "3585",
+        "name": "Calvin Klein Jeans – bold logo colorblock tshirt relaxed fit",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J322508-Bright-White.2-768x1025.jpg?alt=media&token=efc75692-ad8f-441a-a513-9f0f9b88497a",
+        "storeName": "Calvin Klein Jeans",
+        "description": "Calvin Klein Jeans – bold logo colorblock tshirt relaxed fit",
+        "mallName": "City Stars",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "dwKWriYRW4YoZez1xPTI",
+        "mallName": "City Stars",
+        "category": "Men's Wear",
+        "storeName": "Calvin Klein Jeans",
+        "name": "Calvin Klein – dimension logo hoodie regular fit",
+        "price": "2175",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FIB0IB00986-Bright-White-768x938.jpg?alt=media&token=a3ac39c8-d0c1-4832-81f5-544a6c8b5958",
+        "description": "Calvin Klein – dimension logo hoodie regular fit – boys"
+       },
+       {
+        "id": "fEo6F9xhb51mdKDYNWpz",
+        "storeName": "Calvin Klein Jeans",
+        "description": "Calvin Klein Jeans – archival monologo regular fit waffle tshirt – men",
+        "mallName": "City Stars",
+        "price": "3585",
+        "category": "Men's Wear",
+        "name": "Calvin Klein Jeans – archival monologo regular fit waffle tshirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J322467-white-grey-heather.2.jpg?alt=media&token=bd5dd6ff-bc44-408d-b697-91f9bdadfeb8"
+       },
+       {
+        "id": "kqG6djGCs8T9cFHCQCIc",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J321575-Ck-Black.jpg?alt=media&token=89d34faf-b7b7-4900-9f03-b6235b3dfbb4",
+        "category": "Men's Wear",
+        "description": "Calvin Klein Jeans – urban graphic pants regular fit – men",
+        "mallName": "City Stars",
+        "storeName": "Calvin Klein Jeans",
+        "name": "Calvin Klein Jeans – urban graphic pants regular fit",
+        "price": "5290"
+       },
+       {
+        "id": "lEL5XZHVUv5cLG4Q8bpI",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FZZUhg82VE5fQqlqnAIzw%2FJ30J320039-CK-Black.1.jpg?alt=media&token=64df95f3-6113-47ba-bcc8-34b9511119e1",
+        "price": "2565",
+        "storeName": "Calvin Klein Jeans",
+        "mallName": "City Stars",
+        "category": "Men's Wear",
+        "name": "Calvin Klein Jeans – abstract photoprint hoodie ",
+        "description": "Calvin Klein Jeans – abstract photoprint hoodie – men"
+       }
+      ]
+     },
+     {
+      "id": "soeDs4CFx9uf1DONxDnC",
+      "name": "American Eagle",
+      "mallName": "City Stars",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FSJKKX7vtzx-main.jpg?alt=media&token=7b4a54f7-e5b0-4ea4-ad69-1fa75f7a008d",
+      "category": "Men's Wear",
+      "address": "Level 2",
+      "products": [
+       {
+        "id": "BeXMhpK158ktVpA5DBh6",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0181_2299_006_f.jpg?alt=media&token=504718bb-ce35-4fcb-9a53-6733f969dabb",
+        "mallName": "City Stars",
+        "price": "390.00",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT",
+        "description": "Product Description\nThe Details\n=Super soft cotton blend\n=Ribbed collar\n=Chest graphics\n=Straight hem\n=This t-shirt is Real Good: made with the planet in mind and a promise to continue to do better\nMaterials & Care\n=60% Cotton, 40% Polyester\n=Machine wash\nSize & Fit\n=Standard fit & length\n=Crew neck\n=Short sleeves",
+        "storeName": "American Eagle",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "N0vIz2oAolOYUWBT75Cu",
+        "price": "450.00",
+        "storeName": "American Eagle",
+        "mallName": "City Stars",
+        "description": "The Details\n-Super soft cotton jersey\n-Elevated graphic\n-Straight hem\nMaterials & Care\n-100% Cotton\n-Machine wash\nSize & Fit\n-Standard fit & length\n-Short sleeves\n-Crew neck",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0185_2302_100_f.jpg?alt=media&token=884632fe-40df-484c-ae5c-450e07509bce",
+        "name": "AE SUPER SOFT ELEVATED GRAPHIC T-SHIRT",
+        "category": "Men's Wear"
+       },
+       {
+        "id": "NcJlZgjw5uTakkiH0FWB",
+        "category": "Men's Wear",
+        "name": "AE ELEVATED GRAPHIC TEE",
+        "description": "The Details\n=Made from soft cotton jersey\n=Elevated embroidered graphic\n=Straight hem\nMaterials & Care\n=100% Cotton\n=Machine wash\nSize & Fit\n=Standard fit & length\n=Crew neck\n=Short sleeves",
+        "price": "450.00",
+        "storeName": "American Eagle",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0181_2305_001_f.jpg?alt=media&token=0c628aa4-2f64-4886-8b52-f03ab4f150a5",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "OPyh2VrgOqfG4Ikadd8Y",
+        "storeName": "American Eagle",
+        "price": "450.00",
+        "category": "Men's Wear",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0185_2303_001_f.jpg?alt=media&token=871f7002-4b4c-478f-b899-7683e66e4cb9",
+        "description": "The Details\n=Super soft cotton jersey\n=Left chest eagle logo\n=Flocked graphics\n=Straight hem\nMaterials & Care\n=100% Cotton\n=Machine wash\nSize & Fit\n=Standard fit & length\n=Crew neck\n=Short sleeves"
+       },
+       {
+        "id": "WuFWWK04FZBJcy4MR0n5",
+        "storeName": "American Eagle",
+        "name": "AE ACTIVE 24/7 JOGGER",
+        "description": "The Details\nSuper-soft stretch\nMoisture-wicking & cool to the touch\nDrawstring waistband\nInterior cell phone pocket\nMatch it back to the Active 24/7 Hoodie\nMaterials & Care\n69% Recycled Polyester, 25% Rayon, 6% Elastane\nColor may transfer when new. Wash once separately in cold water before wearing. Machine wash cold inside out with like colors. Do not bleach. Tumble dry low. Cool iron if needed.\nSize & Fit\nRelaxed through thigh | Tapered leg\nElastic waist and leg opening",
+        "category": "Men's Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F1229_4698_451_f.jpg?alt=media&token=85ee5a41-fb1d-4722-827c-00b3b2c4ec07",
+        "mallName": "City Stars",
+        "price": "780.00"
+       },
+       {
+        "id": "YVeIKBYLAo2N3xXmIvRD",
+        "description": "The Details\nAirFlex+\nAuthentic denim look with flexibility and comfort you have to feel to believe.\nHigh stretch level that keeps its shape\nNaturally faded to look like your favorite lived-in jean\nBlack wash\nMaterials & Care\n96% Cotton, 3% Polyester, 1% Elastane\nColor may transfer when new. Wash once separately in cold water before wearing. Machine wash cold inside out with like colors. Do not bleach. Tumble dry low. Cool iron if needed.\nSize & Fit\nStraight through thigh | Slim through leg\nSlim 14.5\" leg opening",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0116_5371_001_f.jpg?alt=media&token=33b9d8d7-67f1-41ab-814f-d1bd8cac7286",
+        "mallName": "City Stars",
+        "price": "910.00",
+        "name": "AE AIRFLEX+ SLIM STRAIGHT JEAN",
+        "category": "Men's Wear",
+        "storeName": "American Eagle"
+       },
+       {
+        "id": "ZeSZVcyg9LGQBILFfhWY",
+        "description": "The Details\nMade from a super soft fleece blend\nDrawstring hood\nChest graphics\nKangaroo pocket\nStraight hem\nThis hoodie is Real Good: made with the planet in mind and a promise to continue to do better\nMaterials & Care\n80% Cotton, 20% Polyester\nMachine wash\nSize & Fit\nStandard fit & length\nLong sleeves",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0193_1881_012_f.jpg?alt=media&token=a1aeb41f-7663-4641-a113-0ecc09c3887b",
+        "mallName": "City Stars",
+        "name": "AE SUPER SOFT FLEECE GRAPHIC HOODIE",
+        "category": "Men's Wear",
+        "price": "500.00",
+        "storeName": "American Eagle"
+       },
+       {
+        "id": "bRnym629qI7sEvRsx9tG",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0185_2303_410_f.jpg?alt=media&token=74d51e28-f911-47eb-b394-c12db3bcda22",
+        "category": "Men's Wear",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT",
+        "price": "525.00",
+        "storeName": "American Eagle",
+        "description": "The Details\n=Super soft cotton jersey\n=Left chest eagle logo\n=Flocked graphics\n=Straight hem\nMaterials & Care\n=100% Cotton\n=Machine wash\nSize & Fit\n=Standard fit & length\n=Crew neck\n=Short sleeves"
+       },
+       {
+        "id": "votBxV8lslZFzSjAf3oo",
+        "price": "910.00",
+        "storeName": "American Eagle",
+        "category": "Men's Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0111_6152_437_f.jpg?alt=media&token=0d71c8f0-69c0-4a5b-85da-1b3cc84194ac",
+        "mallName": "City Stars",
+        "name": "AE AIRFLEX+ ORIGINAL STRAIGHT JEAN",
+        "description": "The Details\nAirFlex+\nAuthentic denim look with lightweight flexibility and comfort you have to feel to believe.\nHigh stretch level that keeps its shape\nMedium wash\nMaterials & Care\n92% Cotton, 6% Recycled Cotton, 2% Elastane\nColor may transfer when new. Wash once separately in cold water before wearing. Machine wash cold inside out with like colors. Do not bleach. Tumble dry low. Cool iron if needed.\nSize & Fit\nStraight through thigh and leg\nStraight 15.5\" leg opening"
+       },
+       {
+        "id": "wakSimxE4NJyXhete4vr",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT",
+        "description": "Product Description\nThe Details\n=Super soft cotton jersey blend\n=Chest graphics\n=Straight hem\n=These shirts are Real Good: made with the planet in mind and a promise to continue to do better.\nMaterials & Care\n=60% Cotton, 40% Polyester\n=Machine wash\nSize & Fit\n=Standard fit & length\n=Crew neck\n=Short sleeves",
+        "category": "Men's Wear",
+        "storeName": "American Eagle",
+        "price": "390.00",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FsoeDs4CFx9uf1DONxDnC%2F0181_2293_027_f.jpg?alt=media&token=f327e83b-b397-40d2-abf9-e1ca90cf87da"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "l3NdCWPVI2oxnYCTEwFo",
+    "MallName": "City Stars",
+    "name": "Kids' Wear",
+    "shops": [
+     {
+      "id": "ncXdXxPol94lYixZ3Y7j",
+      "category": "Kids' Wear",
+      "address": "Level 2",
+      "mallName": "City Stars",
+      "name": "Mango",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2Fmango.avif?alt=media&token=b7ea1826-2266-4938-a6de-ca1a0af21a37",
+      "products": [
+       {
+        "id": "Js2y0UNKlnsV1RZpYkkn",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FncXdXxPol94lYixZ3Y7j%2Fdownload%20(4).jpg?alt=media&token=9a6fc032-e600-497d-a5a3-78a333e0e9df",
+        "storeName": "Mango",
+        "price": "799.00",
+        "description": "DESCRIPTION\nStraight design. Snoopy print. Rounded neck. Short sleeve.\n\nWith this cotton garment you support our investment in the mission of Better Cotton. This fabric is a mass balance that replaces or blends Better Cotton with conventional cotton, so it may not contain Better Cotton. Partner farmers receive ongoing support and training.",
+        "mallName": "City Stars",
+        "category": "Kids' Wear",
+        "name": "Snoopy printed t-shirt"
+       },
+       {
+        "id": "hiOu7LtFi1uFy1IPi5Lj",
+        "description": "Print. Straight design. Rounded neck. Short sleeve.\n\nWith this cotton garment you support our investment in the mission of Better Cotton. This fabric is a mass balance that replaces or blends Better Cotton with conventional cotton, so it may not contain Better Cotton. Partner farmers receive ongoing support and training.",
+        "storeName": "Mango",
+        "name": "Pineapple printed cotton T-shirt",
+        "mallName": "City Stars",
+        "category": "Kids' Wear",
+        "price": "599.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FncXdXxPol94lYixZ3Y7j%2Fdownload%20(7).jpg?alt=media&token=a4959743-cb4f-4b22-965a-a8289039363a"
+       },
+       {
+        "id": "qUjDD0yJof7PbACqIedG",
+        "mallName": "City Stars",
+        "category": "Kids' Wear",
+        "storeName": "Mango",
+        "name": "Reversible sequins T-shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FncXdXxPol94lYixZ3Y7j%2Fdownload%20(3).jpg?alt=media&token=a2f67cd8-e49e-47c1-928f-2336211950b9",
+        "description": "DESCRIPTION\nReversible sequins. Straight design. Rounded neck. Short sleeve.\n\nWith this cotton garment you support our investment in the mission of Better Cotton. This fabric is a mass balance that replaces or blends Better Cotton with conventional cotton, so it may not contain Better Cotton. Partner farmers receive ongoing support and training.",
+        "price": "799.00"
+       },
+       {
+        "id": "rQiHESxLFTnwfUZDMVW0",
+        "price": "799.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FncXdXxPol94lYixZ3Y7j%2Fdownload%20(5).jpg?alt=media&token=1b726ec4-564c-4dad-9e3a-8a0e899060b8",
+        "name": "Embroidered flowers T-shirt",
+        "description": "100% Cotton. Flowered embroidery. Rounded neck. Short sleeve. Frill detail.\n\nWith this cotton garment you support our investment in the mission of Better Cotton. This fabric is a mass balance that replaces or blends Better Cotton with conventional cotton, so it may not contain Better Cotton. Partner farmers receive ongoing support and training.",
+        "storeName": "Mango",
+        "mallName": "City Stars",
+        "category": "Kids' Wear"
+       },
+       {
+        "id": "rocZshsacPTVeXJUF9p4",
+        "mallName": "City Stars",
+        "category": "Kids' Wear",
+        "description": "Cotton-viscose blend fabric. Bucket design. Round design. Unclosed.\n\nWith this cotton garment you support our investment in the mission of Better Cotton. This fabric is a mass balance that replaces or blends Better Cotton with conventional cotton, so it may not contain Better Cotton. Partner farmers receive ongoing support and training.",
+        "storeName": "Mango",
+        "price": "799.00",
+        "name": "Bucket hat",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FncXdXxPol94lYixZ3Y7j%2Fdownload%20(1).jpg?alt=media&token=556fef21-c894-4816-8b42-1055afceb963"
+       }
+      ]
+     },
+     {
+      "id": "tCCgYk4Z7Yh56O6zNQe1",
+      "mallName": "City Stars",
+      "address": "Level 1",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FB1omXmvKMl-main.jpg?alt=media&token=08b89fab-a6d1-4ab1-b3b9-c7781960b89a",
+      "category": "Kids' Wear",
+      "name": "Adidas Kids",
+      "products": [
+       {
+        "id": "AtKOiqUwYOuPTdHyYstd",
+        "price": "2249.00",
+        "category": "Kids' Wear",
+        "description": "Regular fitTop: Snap-button front closure to size 8670% cotton, 30% recycled polyester French terryTop: Kangaroo pocketTop: Ribbed cuffs and hemPants: Drawcord on elastic waistPants: Ribbed cuffsFrench terryBetter Cotton Initiative",
+        "name": "ADICOLOR HOODIE SETT",
+        "storeName": "Adidas Kids",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/pro%2Fundefined%2F%5Bobject%20File%5Dname?alt=media&token=a6b8b1ca-e202-41ce-b2ef-ff54a2cecce8"
+       },
+       {
+        "id": "Cf9AbKQyMVpxaVC3gEPp",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2FHK7486_01_laydown.jpg?alt=media&token=ba8392e6-a72b-43ae-bbe0-5c9d3386bf5a",
+        "description": "Regular fitFull zip with ribbed collar100% recycled polyester tricotSoft feelFront welt pockets on jacketRaglan sleevesElastic waist with drawcordRibbed cuffs and hemTricotPrimeblue",
+        "storeName": "Adidas Kids",
+        "price": "2249.00",
+        "category": "Kids' Wear",
+        "name": "ADICOLOR SST TRACK SUIT"
+       },
+       {
+        "id": "GwTXKuzxHjUkOFZpl6Y0",
+        "storeName": "Adidas Kids",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2Fe1306c37a1af4426aa9eaeb301067e6e_9366.webp?alt=media&token=46fb34fc-cb93-4f30-9c17-11776025671f",
+        "price": "1158.40",
+        "description": "Regular fitFull zip with lined hood60% cotton, 30% recycled polyester, 10% recycled cotton French terryHoodie: Front pocketsPants: Elastic waist with drawcordPants: Gusseted drop crotchPants: Ribbed cuffsFrench terryBetter Cotton Initiative",
+        "category": "Kids' Wear",
+        "name": "JOGGER SET"
+       },
+       {
+        "id": "MMRQfQu9YyD7cuaivtTX",
+        "name": "ESSENTIALS ORGANIC COTTON TEE AND SHORTS SET",
+        "description": "Regular fitTee: Ribbed crewneck with shoulder snaps100% organic cotton single jerseyShorts: Elastic waist",
+        "category": "Kids' Wear",
+        "price": "1149.00",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2F4735b1b4482648c1a9efaef600bf7f5b_9366.webp?alt=media&token=32b86e1c-2d81-40e5-96a8-7c449235bd9f",
+        "storeName": "Adidas Kids"
+       },
+       {
+        "id": "cavOPfYssYngc7KCx4rv",
+        "category": "Kids' Wear",
+        "storeName": "Adidas Kids",
+        "description": "Regular fit is not tight and not loose, the perfect in-between fitRibbed crewneck; Button placket on shoulder for easy on and off (up to size 86)Short sleeves100% cotton single jerseySoft feelT-shirt: Big Trefoil logoShorts: Drawcord on elastic waistWe partner with the Better Cotton Initiative to improve cotton farming globally",
+        "price": "1499.00",
+        "name": "TREFOIL SHORTS TEE SET",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2FHK7482_01_laydown.jpg?alt=media&token=305ccb3b-1d4a-4a43-a735-75a9fb3c5408"
+       },
+       {
+        "id": "d9c6rhjoym3eGyz3xOYW",
+        "description": "Top: Regular fit; Bottom: Loose fitRibbed crewneckTee: 100% cotton single jerseyPants: 70% cotton, 30% recycled polyester French terryDrop shoulderMid-rise waist with drawcordRibbed pant cuffsAllover-print LEGO®-inspired graphic on pantsMade with Better Cotton",
+        "storeName": "Adidas Kids",
+        "name": "ADIDAS X CLASSIC LEGO® TEE AND PANT SET",
+        "category": "Kids' Wear",
+        "price": "1699.00",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2F4646a43c195d4a8fa883aefa00b5f29a_9366.webp?alt=media&token=a69b9f58-e6a2-425a-9bdf-82475c70ec31"
+       },
+       {
+        "id": "f2KnaSOQauf2EOaMKZL1",
+        "description": "Regular fitTee: Ribbed crewneck100% cotton single jerseyTee: Shoulder snaps for easy on and off (up to size 86)Shorts: Drawcord on elastic waistMoomin graphicsMade with Better CottonREVIEWS",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2F729afe3ba392456e818faf1700e48d61_9366.webp?alt=media&token=5e67591a-972e-4523-a186-7a43075e67aa",
+        "name": "ADIDAS ORIGINALS X MOOMIN SHORTS AND TEE SET",
+        "price": "1499.00",
+        "storeName": "Adidas Kids",
+        "category": "Kids' Wear"
+       },
+       {
+        "id": "kNnQhbhn6gkUGpSN1hrT",
+        "description": "Regular fitRibbed crewneck with hidden shoulder placket100% cotton single jerseyIncluded bibMid-rise elastic waist with drawcordDisney's Mickey Mouse graphic©DisneyMade with Better Cotton",
+        "category": "Kids' Wear",
+        "storeName": "Adidas Kids",
+        "name": "ADIDAS X DISNEY MICKEY MOUSE GIFT SET",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2FHR9490_01_laydown.jpg?alt=media&token=600e1308-ca90-43b3-a5e1-05d5047a3a64",
+        "price": "1899.00"
+       },
+       {
+        "id": "rQA9E6l19kY2JkMwackE",
+        "storeName": "Adidas Kids",
+        "name": "ADIDAS X CLASSIC LEGO® TEE AND PANTS SET",
+        "category": "Kids' Wear",
+        "price": "749.50",
+        "description": "Regular fit\nTwo-colour crewneck\n70% cotton, 30% recycled polyester French terry\nElastic waist with drawcord\nadidas x Classic LEGO® graphics\nFrench terry,Single jersey\nSupports the Better Cotton Initiative",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2FHM2240_01_laydown.jpg?alt=media&token=f90bfdbe-b433-49cd-8e73-a985ae1fc218",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "zkoKjCuf3JTBF3NOjXMH",
+        "category": "Kids' Wear",
+        "description": "Regular fitTee: Ribbed crewneck100% cotton single jerseySingle jerseySupports the Better Cotton Initiative",
+        "name": "ESSENTIALS SPORT SET",
+        "price": "1149.00",
+        "storeName": "Adidas Kids",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FtCCgYk4Z7Yh56O6zNQe1%2F6a99df5f747446c89e27add70137a0c5_9366.webp?alt=media&token=52a53a5d-23ef-4f5f-bb8e-eaf53ce771e6"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "oytXViT38Kwn5chvzHoY",
+    "name": "Ladies' Wear",
+    "MallName": "City Stars",
+    "shops": [
+     {
+      "id": "F9UyaJaqQpkAoZ7BryZn",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FBJKvr7DKGx-main.jpg?alt=media&token=fd071ed4-b6d8-40f5-885a-59dc7e83b9ce",
+      "name": "Calvin Klien Jeans",
+      "category": "Ladies' Wear",
+      "mallName": "City Stars",
+      "address": "Level 3",
+      "products": [
+       {
+        "id": "0JNg8G5q9BlNXWEjk2A3",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – leather watch – women",
+        "price": "4115",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK7V231W6-NAVY-768x768.jpg?alt=media&token=fea9a2d6-0613-4dd4-999a-d6f1aee2f4cb",
+        "category": "Ladies' Wear",
+        "description": "Dimensions: Case: Stainless steel, Case diameter: 26mm, Case thickness: 6mm, Band: Leather, Bandwidth: 18mm",
+        "storeName": "Calvin Klien Jeans"
+       },
+       {
+        "id": "0VMJsZzkZt8QhXArouuO",
+        "price": "3580",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – recycled 7/8 gym leggings slim fit – women",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWF2L615-Clematis-Blue.1-768x1108.jpg?alt=media&token=8352eade-a3ac-4735-b521-c54903d264c8",
+        "category": "Ladies' Wear",
+        "storeName": "Calvin Klien Jeans",
+        "description": "Calvin Klein – recycled 7/8 gym leggings slim fit – women"
+       },
+       {
+        "id": "1w92kPpZyYBfOS0KibyJ",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK9U23146-SilverWhite.jpg?alt=media&token=2dc635b7-cecd-4e12-b013-53b03990f88e",
+        "category": "Ladies' Wear",
+        "name": "Calvin Klein – women’s quartz watch – women",
+        "mallName": "City Stars",
+        "storeName": "Calvin Klien Jeans",
+        "description": "Calvin Klein – women’s quartz watch – women",
+        "price": "5775"
+       },
+       {
+        "id": "3KXfcr3KExDyCZLpezI2",
+        "storeName": "Calvin Klien Jeans",
+        "description": "Calvin Klein – medium support sports bra – women",
+        "price": "2635",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWS2K122-Jadeite.jpg?alt=media&token=0f296316-795f-4b52-a204-f1641e97959a",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – medium support sports bra – women"
+       },
+       {
+        "id": "95ss6EBEQDmbMNNpEYbs",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FKW0KW01786-Pvh-Black.jpg?alt=media&token=b0eebbc3-4dca-4d89-aff9-ecf7e53d04a3",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – beach kaftan – women",
+        "storeName": "Calvin Klien Jeans",
+        "price": "2460",
+        "description": "Calvin Klein – beach kaftan – women"
+       },
+       {
+        "id": "EZfuLAOrmrRXumbOnV9c",
+        "price": "1345",
+        "storeName": "Calvin Klien Jeans",
+        "name": "Calvin Klein -gym tank top slim fit – women",
+        "mallName": "City Stars",
+        "description": "Calvin Klein -gym tank top slim fit – women",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWT1K185-white.jpg?alt=media&token=0bdd9b2f-a56f-4dc3-aaaf-38b4329e85e0",
+        "category": "Ladies' Wear"
+       },
+       {
+        "id": "Q5q1jlkX53fspSQxc4Vd",
+        "name": "Calvin Klein – short sleeved cropped t-shirt – women",
+        "price": "2185",
+        "storeName": "Calvin Klien Jeans",
+        "category": "Ladies' Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWF2K133-GREY-HEATHER.jpg?alt=media&token=a7802946-fb86-4bc2-b7cc-be2f2bf680cd",
+        "description": "Calvin Klein – short sleeved cropped t-shirt – women",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "VJZuybRslpqBBtcdh25j",
+        "storeName": "Calvin Klien Jeans",
+        "name": "Calvin Klein – city nylon flap backpack – women",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK60K609799-Black.jpg?alt=media&token=df9e7384-51ca-4cac-ad6f-7724e9e164a1",
+        "category": "Ladies' Wear",
+        "description": "Calvin Klein – city nylon flap backpack – women",
+        "price": "3915",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "Xa6qlapgoShjdRhCTnWA",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – metal watch – women",
+        "price": "6175",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK8N23646-GOLD.jpg?alt=media&token=1592c24d-73bc-455d-bb33-beb7a22b667b",
+        "category": "Ladies' Wear",
+        "description": "Calvin Klein – metal watch – women",
+        "storeName": "Calvin Klien Jeans"
+       },
+       {
+        "id": "aSBMt2cWtsA28LJDF6Xe",
+        "name": "Calvin Klein – retro vulcanized low – women",
+        "description": "Calvin Klein – retro vulcanized low – women",
+        "storeName": "Calvin Klien Jeans",
+        "price": "4020",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FYW0YW00483-WHITE-RED.jpg?alt=media&token=cf429a45-ae6f-4893-a888-1461c6f5f934",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "cHT1VZ3h4t7DSeuvZ7Hp",
+        "storeName": "Calvin Klien Jeans",
+        "name": "Calvin Klein – recycled nylon shoulder bag – women",
+        "description": "Calvin Klein – recycled nylon shoulder bag – women",
+        "mallName": "City Stars",
+        "price": "2240",
+        "category": "Ladies' Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK60K609798-Black.jpg?alt=media&token=44789033-37cd-43c1-ac3a-bc5387a05633"
+       },
+       {
+        "id": "gBkstUHYkx2IYEOfZloo",
+        "description": "Calvin Klein – sculpted shoulder pouch – women",
+        "storeName": "Calvin Klien Jeans",
+        "category": "Ladies' Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK60K609769-Black.jpg?alt=media&token=e5bcca6d-677d-44a6-9a9b-40de6c350865",
+        "name": "Calvin Klein – sculpted shoulder pouch – women",
+        "price": "3620",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "gMsg4bJcpQmvIUS73X8Q",
+        "description": "Calvin Klein – recycled 7/8 gym leggings slim fit – women",
+        "price": "3580",
+        "storeName": "Calvin Klien Jeans",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWS2L612-Jadeite.jpg?alt=media&token=1d814694-3ad0-4658-8eae-a8a85e9a6b9e",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "name": "Calvin Klein – recycled 7/8 gym leggings slim fit – women"
+       },
+       {
+        "id": "mHOskCcl4pecidD4zEnO",
+        "storeName": "Calvin Klien Jeans",
+        "name": "Calvin Klein – recycled crossbody bag – women",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FK60K609779-Tuscan-Beige.jpg?alt=media&token=b53e7b40-2858-414f-b5a6-b807b603eaf0",
+        "category": "Ladies' Wear",
+        "description": "Calvin Klein – recycled crossbody bag – women",
+        "price": "5590",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "q0NI9UKnG2HiGLoAxujf",
+        "name": "Calvin Klein – oversized logo tape hoodie – women",
+        "description": "Calvin Klein – oversized logo tape hoodie – women",
+        "mallName": "City Stars",
+        "storeName": "Calvin Klien Jeans",
+        "price": "2640",
+        "category": "Ladies' Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2F00GWF1W305-Blackened-Pearl-Rose-Quartz-768x1075.jpg?alt=media&token=f6c2f0ca-431a-48de-948d-cf566d007a83"
+       },
+       {
+        "id": "w1Cte8hAtsnOH0uSu1Lc",
+        "category": "Ladies' Wear",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FF9UyaJaqQpkAoZ7BryZn%2FKW0KW01306-black.jpg?alt=media&token=f734a5ba-eb88-466e-a3a1-6bff815e6b18",
+        "name": "Calvin Klein – halter bikini top – women",
+        "mallName": "City Stars",
+        "price": "1540",
+        "description": "Calvin Klein – halter bikini top – women",
+        "storeName": "Calvin Klien Jeans"
+       }
+      ]
+     },
+     {
+      "id": "YBdPluuQJT2vDof7eVyW",
+      "name": "Bershka",
+      "mallName": "City Stars",
+      "address": "Level 2",
+      "category": "Ladies' Wear",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FHymiN7DtMg-main.jpg?alt=media&token=9324b4d5-91ae-4d22-8b5e-347919f5c183",
+      "products": [
+       {
+        "id": "4su5e1dH6qMVtQ4qQ3Lr",
+        "category": "Ladies' Wear",
+        "name": "Harry Potter print short sleeve T-shirt Ref 2029/777/810",
+        "description": "color: Black",
+        "price": "899",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2Fad7c6b51dced14d1d3c7accbaa2b34b7-2029777810_2_4_0.webp?alt=media&token=fcc569f2-3adf-4e08-90cf-d3504424390c",
+        "storeName": "Bershka",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "7meorg4O2jSzKxgbrDCB",
+        "price": "999",
+        "category": "Ladies' Wear",
+        "storeName": "Bershka",
+        "description": "color: white",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2F256922f72c5debd668363cb60b829f6f-2092705251_2_4_0.webp?alt=media&token=0273e18e-4cc4-4013-91e5-4feedd7cde9c",
+        "name": "Short sleeve Dua Lipa print T-shirt",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "HpxHMgfq6VoxFYUnfVnL",
+        "price": "1599",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "name": "Flared jeans",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2F2fb04dbf2471431e2580174919450462-5019211428_2_4_0.webp?alt=media&token=8fb9c04f-c7d8-4418-a2bd-0ac7d4decbd8",
+        "description": "color: light blue",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "OKfJMBNGL7zu7UFd2zdT",
+        "category": "Ladies' Wear",
+        "name": "Dad fit wide-leg tailored trousers",
+        "price": "1599",
+        "storeName": "Bershka",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2Fc515053243d293e926b13c36a9c8b2cf-5140168802_2_4_0.jpg?alt=media&token=7d0e775c-1ec8-4b9b-858c-037c39552dd7",
+        "mallName": "City Stars",
+        "description": "CompositionOuter62% polyester34% viscose4% elastane"
+       },
+       {
+        "id": "TcrxHeAsUI6iOnSose0o",
+        "storeName": "Bershka",
+        "mallName": "City Stars",
+        "price": "1399",
+        "description": "Heel height: 7.5 cm. AIRFIT®. Flexible technical latex foam insole, designed to offer greater comfort.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2Ff3376a824b62091ac62e00a1265d99f9-1776260043_1_1_0.webp?alt=media&token=7fff30c5-d42f-4bd6-a280-57c2c15b4238",
+        "name": "High-heel strappy denim sandals with ankle strap",
+        "category": "Ladies' Wear"
+       },
+       {
+        "id": "W0Bno1l5Z0sELl6wWTNN",
+        "price": "539",
+        "category": "Ladies' Wear",
+        "storeName": "Bershka",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2Fe2b4689350e594e6859fbdefd1d445a8-3926423800_1_1_0.jpg?alt=media&token=719474c2-0355-408b-b109-ab04ee4faaf5",
+        "description": "color: black",
+        "name": "Slogan cap",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "eTsfSXn4fw7bzZrrVoBw",
+        "price": "1399",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "description": "Secondary fabric47% cotton50% polyester3% elastaneMain fabric40% cotton60% polyesterLining52% polyester48% cotton",
+        "storeName": "Bershka",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2F0985409709315babe1d6d7f6644801e8-1407700742_2_4_0.jpg?alt=media&token=0eb5a924-5a02-40fc-87ce-4bb3c5b0ae0a",
+        "name": "Varsity print hoodie with zip"
+       },
+       {
+        "id": "m4DeG7InI673V15BPeGV",
+        "name": "Fitted high-heel platform ankle boots",
+        "mallName": "City Stars",
+        "description": "Heel height: 12 cm. Platform height: 4.5 cm.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2F40c457a94178873f31a72584ce727b85-1103160040_2_3_0.jpg?alt=media&token=ebd28771-9703-4440-a87a-f6e342af1a50",
+        "storeName": "Bershka",
+        "price": "2199",
+        "category": "Ladies' Wear"
+       },
+       {
+        "id": "oSkLPYijJwFYoHwRCpOi",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2F709ad19dc4eb1845875d8997d6d91973-2234851251_2_4_0.jpg?alt=media&token=a3b6d177-fad6-43b2-9260-0b1a1e46bdb9",
+        "description": "color: white",
+        "price": "999",
+        "mallName": "City Stars",
+        "name": "Justin Bieber print short sleeve T-shirt",
+        "category": "Ladies' Wear",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "pWg48Juk9BGmSeK8WGYo",
+        "price": "469",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FYBdPluuQJT2vDof7eVyW%2Faba8c7f83302f0e36746646c4c495fa8-4245917250_1_1_0.jpg?alt=media&token=93f0d66d-fc8a-4284-abe5-e38c752254df",
+        "mallName": "City Stars",
+        "description": "Composition\nOuter\n100% plastic",
+        "category": "Ladies' Wear",
+        "name": "Set of 2 pairs of oval matte hair clips",
+        "storeName": "Bershka"
+       }
+      ]
+     },
+     {
+      "id": "bGwYuoqoA3p1Sj3PetDF",
+      "address": "Level 4",
+      "mallName": "City Stars",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2Fdefacto.webp?alt=media&token=545af086-5bd0-4f4f-be84-b028e3a6b6f1",
+      "category": "Ladies' Wear",
+      "name": "DeFacto",
+      "products": [
+       {
+        "id": "G2sAgo8pNnJx29Jb0gPX",
+        "name": "Regular Fit Long Sleeve Linen Look Shirt",
+        "storeName": "DeFacto",
+        "price": "629",
+        "mallName": "City Stars",
+        "description": "Regular Fit Long Sleeve Linen Look Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FV2522AZ_23SP_RD44_01_03.webp?alt=media&token=8803670b-cd9f-43b9-8b2b-6782a1020424",
+        "category": "Ladies' Wear"
+       },
+       {
+        "id": "I53zCcuZ96Jj5vEIB6Xu",
+        "name": "Slim Fit Short Sleeve T-Shirt",
+        "storeName": "DeFacto",
+        "category": "Ladies' Wear",
+        "description": "Slim Fit Short Sleeve T-Shirt",
+        "mallName": "City Stars",
+        "price": "149",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FY5179AZ_22SM_BE2_01_03.webp?alt=media&token=352448fb-9ce9-4fcc-81e4-ba556a5c0423"
+       },
+       {
+        "id": "MIDo3H6emBbye5MQUaFV",
+        "description": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "category": "Ladies' Wear",
+        "name": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FK6402AZ_23SP_BK27_01_02.webp?alt=media&token=05ba67c2-32ea-45ac-8b8c-7c049322491a",
+        "mallName": "City Stars",
+        "price": "489",
+        "storeName": "DeFacto"
+       },
+       {
+        "id": "MtBZU4fDZ4rDrEDSAfAF",
+        "storeName": "DeFacto",
+        "price": "999",
+        "description": "Oversize Fit Shirt Collar Linen Look Long Sleeve Shirt",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FA4248AX_23SM_YL273_01_02.webp?alt=media&token=4a4c8e38-faf4-4173-9a0c-d26079ca360d",
+        "name": "Oversize Fit Shirt Collar Linen Look Long Sleeve Shirt"
+       },
+       {
+        "id": "NqLjtjwSp4DMMdWeGK4F",
+        "name": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "description": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FW3614AZ_23SP_PN450_01_01.webp?alt=media&token=d22d0ac0-12c6-43ab-904c-d1a9830b5152",
+        "storeName": "DeFacto",
+        "category": "Ladies' Wear",
+        "price": "399"
+       },
+       {
+        "id": "OOi8yaoYmbPVS96LbVaz",
+        "price": "359",
+        "category": "Ladies' Wear",
+        "description": "Coool Relax Fit Pajama Collar Short Sleeve Shirt",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FW5144AZ_23SM_PR143_01_01.webp?alt=media&token=697ab293-23cf-4f65-af47-6c7af526aece",
+        "storeName": "DeFacto",
+        "name": "Coool Relax Fit Pajama Collar Short Sleeve Shirt"
+       },
+       {
+        "id": "OsRuKdfOLTjE9c2YNwPx",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FX8034AZ_22SM_ER48_01_01.webp?alt=media&token=cf0f60b4-fd1b-4660-bfa7-9386204508c6",
+        "mallName": "City Stars",
+        "name": "Defacto Fit Bust Shaper V-Neck Thick Strap Crop Singlet",
+        "category": "Ladies' Wear",
+        "storeName": "DeFacto",
+        "description": "Defacto Fit Bust Shaper V-Neck Thick Strap Crop Singlet",
+        "price": "349"
+       },
+       {
+        "id": "T3N334iAwkZ2UpwAg9bc",
+        "price": "209",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FX7288AZ_22SM_BK50_01_02.webp?alt=media&token=82268f07-4ade-460b-a93f-db285528cb30",
+        "mallName": "City Stars",
+        "storeName": "DeFacto",
+        "category": "Ladies' Wear",
+        "description": "Woman Knitted Athlete",
+        "name": "Woman Knitted Athlete"
+       },
+       {
+        "id": "TGqJYKJIz7E2Tie0PPZ0",
+        "mallName": "City Stars",
+        "name": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FU7763AZ_23SP_GN689_01_01.webp?alt=media&token=ff522009-c2ad-43a4-ad01-2bda0f5e8d8d",
+        "category": "Ladies' Wear",
+        "description": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "storeName": "DeFacto",
+        "price": "719"
+       },
+       {
+        "id": "TtVyVz0fIDO4oPDFzKt1",
+        "description": "Regular Fit Shirt Collar Satin Long Sleeve Shirt",
+        "storeName": "DeFacto",
+        "name": "Regular Fit Shirt Collar Satin Long Sleeve Shirt",
+        "price": "719",
+        "category": "Ladies' Wear",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FZ2989AZ_23SP_ER105_01_03.webp?alt=media&token=b7acbcd7-2a9e-4812-877a-d95742b752fc"
+       },
+       {
+        "id": "eRkVQXdiEHPI92cfkkFs",
+        "mallName": "City Stars",
+        "storeName": "DeFacto",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FX8816AZ_22SM_GN689_01_03.webp?alt=media&token=1b0a73ad-1823-4020-8f91-1154a23753a0",
+        "category": "Ladies' Wear",
+        "name": "Oversized Short Sleeve Harry Potter Print Crop Top",
+        "description": "Oversized Short Sleeve Harry Potter Print Crop Top",
+        "price": "229"
+       },
+       {
+        "id": "epst6jJlNaWsFL6zB9TN",
+        "name": "Oversize Fit Striped Long Sleeve Poplin Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FW7702AZ_23SP_BE40_01_02.webp?alt=media&token=39283f3f-7f6c-4f96-8cbc-a5fa931e9253",
+        "mallName": "City Stars",
+        "description": "Oversize Fit Striped Long Sleeve Poplin Shirt",
+        "storeName": "DeFacto",
+        "price": "629",
+        "category": "Ladies' Wear"
+       },
+       {
+        "id": "m40bT07hVCLoV6GD1GLM",
+        "category": "Ladies' Wear",
+        "name": "Regular Fit Shirt Collar Short Sleeve Shirt",
+        "description": "Regular Fit Shirt Collar Short Sleeve Shirt",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FN7819AZ_23SM_WT32_01_01.webp?alt=media&token=04d7c350-8708-43c6-86ff-808be9a5a7d5",
+        "storeName": "DeFacto",
+        "price": "399"
+       },
+       {
+        "id": "ummEnCfx909mbiS0IK6a",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FU7763AZ_23SP_GN689_01_01.webp?alt=media&token=e287cd4a-9e9d-4539-8c5c-2bcd4f1fd3a6",
+        "description": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "name": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "mallName": "City Stars",
+        "category": "Ladies' Wear",
+        "price": "719",
+        "storeName": "DeFacto"
+       },
+       {
+        "id": "w580mLhxgO9tarzBv07B",
+        "price": "349",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FN7819AZ_23SM_PN179_01_01.webp?alt=media&token=fead86af-a89c-4102-a737-54a987a8a6d2",
+        "mallName": "City Stars",
+        "category": "Ladies' Wear",
+        "storeName": "DeFacto",
+        "description": "Regular Fit Shirt Collar Short Sleeve Shirt",
+        "name": "Regular Fit Shirt Collar Short Sleeve Shirt"
+       },
+       {
+        "id": "yRsiEwaQkXZTnl6VUjod",
+        "description": "Women Long Sleeve Shirts",
+        "price": "699",
+        "category": "Ladies' Wear",
+        "storeName": "DeFacto",
+        "name": "Women Long Sleeve Shirts",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FbGwYuoqoA3p1Sj3PetDF%2FI8266AZ_23SP_BN348_01_03.webp?alt=media&token=e3c24fb4-b3b4-4521-ad5c-8384373cec9d",
+        "mallName": "City Stars"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sw55nvCGopUFIvJyojk2",
+    "MallName": "City Stars",
+    "name": "Electronics",
+    "shops": [
+     {
+      "id": "TARqELZByQsroQEOCYxS",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/3arpKxzX5QpFDkZmzGGg%2Fshops%2FSyxxQ7Dtze-main.jpg?alt=media&token=64d319eb-3bb5-4ee8-82d8-fd38269abfb1",
+      "name": "2B",
+      "mallName": "City Stars",
+      "address": "Level 2",
+      "category": "Electronics",
+      "products": [
+       {
+        "id": "4yhN5oqBZaqxlPoBpF2i",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fzd951-1n-2b.jpg?alt=media&token=7dfb869e-2403-442d-8ab8-9bb9b2c535f4",
+        "category": "Electronics",
+        "storeName": "2B",
+        "description": "Processor: 10th Generation Intel®Core™ i7 -10750H(12MB Cache, up to 5.0 GHz, 6 cores)RAM: 16GBHard Disk: 512 SSDGraphics Card: NVIDIA® GeForce® GTX 1660 Ti 6GB GDDR6Color: Black",
+        "mallName": "City Stars",
+        "name": "Dell G5-5500 - Intel® Core™ i7 -10750H - 16GB - 512 SSD - NVIDIA® GeForce® GTX 1660 Ti 6GB GDDR6 - 15.6\"FHD - Win10 - Black",
+        "price": "35699.00"
+       },
+       {
+        "id": "5q0dADBr990lOcDf0l8Q",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fzh350-1n-2b.jpg?alt=media&token=812bdbb5-4a47-4839-88c9-be81a35fe23b",
+        "storeName": "2B",
+        "description": "Processor: AMD Ryzen™ 7 5800H (up to 4.4 GHz max boost clock, 16 MB L3 cache, 8 cores, 16 threads)Ram: 16GBHard Disk: 1TB SSDGraphics Card: NVIDIA® GeForce® RTX™ 3050 4GBColor: Mica silver",
+        "category": "Electronics",
+        "mallName": "City Stars",
+        "price": "34999.00",
+        "name": "HP Victus 16-e0001ne - AMD Ryzen™ 7-5800H - 16GB - 1TB SSD - NVIDIA® GeForce® RTX™ 3050 4GB - 16\"FHD - Win10 - Mica silver"
+       },
+       {
+        "id": "ER53bPYckQrTmP5dC5SO",
+        "description": "Type: WirelessConnectivity: BluetoothColor: Purple",
+        "price": "7499.00",
+        "mallName": "City Stars",
+        "category": "Electronics",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp350-1-min.jpg?alt=media&token=eb6d3888-3abd-418c-8f60-2575bc0c3e17",
+        "name": "Samsung Galaxy Buds 2 Pro - Purple",
+        "storeName": "2B"
+       },
+       {
+        "id": "Iqf43S3pmhm3G00YcG2F",
+        "price": "4999.00",
+        "mallName": "City Stars",
+        "storeName": "2B",
+        "name": "Anker Soundcore Life P3 Bluetooth Earphone A3939031- Navy Blue",
+        "description": "Type: WirelessConnectivity: BluetoothColor: Navy Blue",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp281-1-min.jpg?alt=media&token=809d007a-da6d-4ccb-ba0d-917e67f40d35",
+        "category": "Electronics"
+       },
+       {
+        "id": "KJqlmeCZPbTYNZiciZKo",
+        "name": "L'avvento (HP06L) Headphone Stereo Golden Plug With 40mm - 1.5M - Blue",
+        "category": "Electronics",
+        "price": "349.00",
+        "storeName": "2B",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp06l-1-min.jpg?alt=media&token=cc8fa58a-26cd-4bfe-80ff-a306352bde46",
+        "description": "Type: Wired\nConnectivity: 3.5mm\nCable length: 1.5M \nColor: Blue",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "RDAtupY8khAhlddKRLnF",
+        "description": "Type: Wireless\nConnectivity: Bluetooth\nColor: Black",
+        "mallName": "City Stars",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp776-1-min.jpg?alt=media&token=5a201569-1f4f-481e-8e5d-66cd69c3d467",
+        "price": "779.00",
+        "storeName": "2B",
+        "category": "Electronics",
+        "name": "Xiaomi Redmi Buds 3 lite - Black"
+       },
+       {
+        "id": "YbeUe5MjL4M6XQh8J9yD",
+        "name": "L'avvento (HP085) Bluetooth Wireless Oval Headphones - Black",
+        "category": "Electronics",
+        "price": "799.00",
+        "storeName": "2B",
+        "description": "Type: Wireless\nConnectivity: Bluetooth\nColor: Black",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp085-oo.jpg?alt=media&token=44e8c043-5df7-4e7c-b32a-0172ceff787e",
+        "mallName": "City Stars"
+       },
+       {
+        "id": "eoaJEJa04Q8qUGvFmvwZ",
+        "mallName": "City Stars",
+        "name": "Anker Soundcore Life Note 3 EarPhone - A3933H21 - White",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp283-1-min.jpg?alt=media&token=4b09cef0-5274-48c4-be03-a5af313ea609",
+        "price": "2999.00",
+        "storeName": "2B",
+        "category": "Electronics",
+        "description": "Type: WirelessConnectivity: BluetoothColor: White"
+       },
+       {
+        "id": "rKc7TOIWRO9Y5jaZwtQm",
+        "name": "Apple AirPods Pro 2nd Generation - White (2B warranty)",
+        "mallName": "City Stars",
+        "storeName": "2B",
+        "category": "Electronics",
+        "price": "9499.00",
+        "description": "Type: WirelessConnectivity: Bluetooth 5.0Compatible with: iPhone, iPad, iPod, Apple Watch Models, Apple TV Models, Mac ModelsColor: White",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fhp343-2-min.jpg?alt=media&token=6ea0d888-6dd5-470b-b825-8e2a97a4bd62"
+       },
+       {
+        "id": "s0TvciJe1FuYJ9efpmy9",
+        "description": "SIM Card: Single SIM Screen: 6.1 inches 828 x 1792 pixels RAM: 4 GB Internal memory: 128 GB Rear Camera: Dual: 12 MP + 12 MP Selfie Camera: 12 MP Color: White",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FTARqELZByQsroQEOCYxS%2Fapple_iphone_11-_white_3_1.jpg?alt=media&token=97bd026e-2abe-4e6b-80a1-7438b4aca845",
+        "name": "Apple iPhone 11 - 128GB - Facetime - White",
+        "category": "Electronics",
+        "storeName": "2B",
+        "price": "24999.00",
+        "mallName": "City Stars"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "4h7mthGbGSOxs7BLsgFH",
+  "address": "New Cairo",
+  "name": "Cairo Festival City",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/malls%2Fcairo.jpg?alt=media&token=c770869b-4edc-4944-9177-6a51da3da288",
+  "cats": [
+   {
+    "id": "9jR3MxG5KA7Q44xnOWdA",
+    "name": "Men's Fashion",
+    "MallName": "Cairo Festival City",
+    "shops": [
+     {
+      "id": "EaGfwPl1JR9cjlhYLCLy",
+      "address": "Level 2",
+      "category": "Men's Fashion",
+      "name": "American Eagle Outfitters",
+      "mallName": "Cairo Festival City",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/4h7mthGbGSOxs7BLsgFH%2Fshops%2Famerican-eagle.webp?alt=media&token=a7f5f1df-1486-4815-a2d3-45caad63b2a0",
+      "products": [
+       {
+        "id": "4BYD7b2lEabmqjUjkp1w",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F11.jpg?alt=media&token=72acbb6e-f24f-4721-8f54-b7df07c734a2",
+        "storeName": "American Eagle Outfitters",
+        "price": "420.00",
+        "name": "AE SUPER SOFT FLEECE ICON GRAPHIC HOODIE",
+        "category": "Men's Fashion",
+        "description": "Our super soft fleece is perfect for lounging and cooler fall temps. Stay cozy!",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "BEmjctEHc2XzeSTYdRU8",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F6.jpg?alt=media&token=eae244d0-5cea-44b0-8f59-fb530f91771e",
+        "description": "All day style. Every day comfort.",
+        "name": "AE ACTIVE 24/7 JOGGER",
+        "category": "Men's Fashion",
+        "storeName": "American Eagle Outfitters",
+        "price": "780.00",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "Fid5MKgIgQh3LTK9HU77",
+        "price": "525.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F9.jpg?alt=media&token=83c5e743-6164-4b8b-87c2-45617722f4ea",
+        "description": "Flocked graphics add texture to make this tee truly stand out.",
+        "storeName": "American Eagle Outfitters",
+        "category": "Men's Fashion",
+        "mallName": "Cairo Festival City",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT"
+       },
+       {
+        "id": "L1f71hD0gXAzwAiT6jty",
+        "price": "525.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F7.jpg?alt=media&token=a6fcb3f1-c9a3-44be-9d51-13fb0e9a241a",
+        "description": "Flocked graphics add texture to make this tee truly stand out.",
+        "category": "Men's Fashion",
+        "storeName": "American Eagle Outfitters",
+        "mallName": "Cairo Festival City",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT"
+       },
+       {
+        "id": "LHatY03a7nJtQWXUn0mZ",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F14.jpg?alt=media&token=92ac59bd-0f09-4664-82d7-d0308032da23",
+        "description": "Soft & simple for all-day style & comfort. Tipped for a touch of extra detail.",
+        "price": "665.00",
+        "category": "Men's Fashion",
+        "mallName": "Cairo Festival City",
+        "storeName": "American Eagle Outfitters",
+        "name": "AE PIQUE POLO SHIRT"
+       },
+       {
+        "id": "Lyt0guWUmXSp5zHm6X0P",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F4.jpg?alt=media&token=95e422a4-a23a-4d78-8a01-b47ee6ba7bc9",
+        "name": "AE SUPER SOFT ICON V-NECK T-SHIRT",
+        "category": "Men's Fashion",
+        "mallName": "Cairo Festival City",
+        "storeName": "American Eagle Outfitters",
+        "description": "Super soft cotton jersey for all-day comfort and versatility.",
+        "price": "300.00"
+       },
+       {
+        "id": "RWf23p3i4rh1AMUHjTJs",
+        "mallName": "Cairo Festival City",
+        "storeName": "American Eagle Outfitters",
+        "category": "Men's Fashion",
+        "price": "780.00",
+        "name": "AE ACTIVE 24/7 JOGGER",
+        "description": "All day style. Every day comfort.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F3.jpg?alt=media&token=96e7d9e6-b1cf-4f60-bc16-07ba1f74a11b"
+       },
+       {
+        "id": "TUjjBceAaK7T8uEcRESf",
+        "description": "Give your t-shirt drawer a super soft refresh.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F13.jpg?alt=media&token=9fd3c7e3-8dc2-47b7-9339-29b1577704b5",
+        "name": "AE SUPER SOFT GRAPHIC T-SHIRT",
+        "mallName": "Cairo Festival City",
+        "price": "455.00",
+        "category": "Men's Fashion",
+        "storeName": "American Eagle Outfitters"
+       },
+       {
+        "id": "cM95taXrhi9MDTTXutDd",
+        "mallName": "Cairo Festival City",
+        "storeName": "American Eagle Outfitters",
+        "category": "Men's Fashion",
+        "price": "780.00",
+        "name": "AE ACTIVE 24/7 JOGGER",
+        "description": "All day style. Every day comfort.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F1229_4708_029_l1.jpg?alt=media&token=84fca394-a57d-46f9-930b-969f24d68698"
+       },
+       {
+        "id": "eumTbiYNJ8FdzFk4A0FJ",
+        "name": "AE HENLEY T-SHIRT",
+        "description": "Comfort and style go together like you and AE.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F10.jpg?alt=media&token=328ee19c-19b3-4345-8de1-d91a4692a274",
+        "price": "300.00",
+        "mallName": "Cairo Festival City",
+        "category": "Men's Fashion",
+        "storeName": "American Eagle Outfitters"
+       },
+       {
+        "id": "f6Yeop0BPKFC3cyQpUQN",
+        "price": "500.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F5.jpg?alt=media&token=9013c28f-fd3f-4e68-b914-ef6d75af2b77",
+        "mallName": "Cairo Festival City",
+        "name": "AE SUPER SOFT FLEECE GRAPHIC HOODIE",
+        "description": "Your favorite extra layer is here, featuring stylish graphics and a never-gonna-take-this-off feel.",
+        "storeName": "American Eagle Outfitters",
+        "category": "Men's Fashion"
+       },
+       {
+        "id": "mZ4oIZpyxJmRkdIWFZ39",
+        "name": "AE SUPER SOFT ICON V-NECK T-SHIRT",
+        "description": "Super soft cotton jersey for all-day comfort and versatility.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F2.jpg?alt=media&token=a50c59c2-6815-453f-9804-b6572a6e9d08",
+        "price": "300.00",
+        "mallName": "Cairo Festival City",
+        "category": "Men's Fashion",
+        "storeName": "American Eagle Outfitters"
+       },
+       {
+        "id": "uU6utBdIPDuvfXJaadSZ",
+        "price": "1,050.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F12.jpg?alt=media&token=dfba28c2-80ca-40a3-a5be-b24b339ea4ec",
+        "category": "Men's Fashion",
+        "name": "AE AIRFLEX+ SKINNY JEAN",
+        "storeName": "American Eagle Outfitters",
+        "description": "A skinny fit throughout, with no shortage of comfort.",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "vNfTp9bzCO8jg6XL7nqt",
+        "description": "A slimmer take on the straight jean.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FEaGfwPl1JR9cjlhYLCLy%2F15.jpg?alt=media&token=f47c8879-edf6-4f2b-8281-955da2b5c875",
+        "name": "AE FLEX SLIM STRAIGHT JEAN",
+        "mallName": "Cairo Festival City",
+        "category": "Men's Fashion",
+        "price": "840.00",
+        "storeName": "American Eagle Outfitters"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ClTYFTf3Jevr1fviTzs2",
+    "name": "Kids Fashion",
+    "MallName": "Cairo Festival City",
+    "shops": [
+     {
+      "id": "mSYXDy2Id3wamCxDMCbI",
+      "mallName": "Cairo Festival City",
+      "name": "Adidas Kids",
+      "address": "Level 3",
+      "category": "Kids Fashion",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/4h7mthGbGSOxs7BLsgFH%2Fshops%2Fadidas-Kids.avif?alt=media&token=93a17a33-49eb-4724-8ac2-981e782951f2",
+      "products": [
+       {
+        "id": "4p9eePMGIZA9CP0r8nrn",
+        "price": "949.00",
+        "name": "AHLY A JSY Y",
+        "category": "Kids Fashion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F2.webp?alt=media&token=a1207aa3-200d-4221-8081-d248e57b6fc9",
+        "description": "TWO ICONS OF THE BEAUTIFUL GAME, ONE ICONIC PARTNERSHIP. THE CLUB OF THE CENTURY, AL AHLY, MEETS ADIDAS. THE AWAY KIT COMES IN A SLEEK BLACK LOOK THAT THE EGYPTIAN GIANTS WILL WEAR FOR THEIR MATCHES OUTSIDE OF THEIR HOME GROUND. FEATURING THEIR NEW CREST, THE AWAY JERSEY IS THE A GREAT ADDITION FOR YOUR WARDROBE. ITS VENTILATING MESH SIDE PANELS ARE SHAPED AND POSITIONED WITH MALE ATHLETES IN MIND. WORKING HARD TO WICK MOISTURE FROM YOUR SKIN, AEROREADY ENSURES YOU'RE ALWAYS READY FOR MORE. MADE WITH 100% RECYCLED MATERIALS, THIS PRODUCT REPRESENTS JUST ONE OF OUR SOLUTIONS TO HELP END PLASTIC WASTE.",
+        "storeName": "Adidas Kids",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "5lQsim6EkRBGeEHE1Dki",
+        "description": "SHOW OFF SOME ADIDAS PRIDE IN THIS KIDS' TEE. From one activity to the next, your kid is always on the go. Give them a style that can keep up. This classic adidas tee brings that active energy front and centre. Soft cotton jersey ensures comfort for all-day play. By buying cotton products from us, you're supporting more sustainable cotton farming.",
+        "storeName": "Adidas Kids",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F11.webp?alt=media&token=136b2b99-d761-46e4-bed0-977efbbd3b4f",
+        "price": "1,099.00",
+        "name": "ADICOLOR TREFOIL TEE",
+        "category": "Kids Fashion"
+       },
+       {
+        "id": "74t6OllqCwhed75173kK",
+        "description": "THESE ADIDAS X ANDRÉ SARAIVA SHORTS ARE MADE WITH NATURE. Last season, adidas x André Saraiva showcased a sustainable story centred around a love for our planet. This season tells the story of a \"Love Union,\" sharing a message of hope for Valentine's Day. Through the timeless medium of graffiti, André promotes the mantra \"The World Needs Love\" to encourage acceptance amongst us all. The love is hard to miss with bold and vibrant graphics on these juniors' adidas shorts. Wherever you wear them, soft cotton cradles you in comfort. These shorts are made with natural and renewable materials as part of our journey to design out finite resources and help end plastic waste.",
+        "name": "ADIDAS ORIGINALS X ANDRÉ SARAIVA SHORTS",
+        "price": "1,249.00",
+        "category": "Kids Fashion",
+        "storeName": "Adidas Kids",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F54ee0fe753754a778010af0700a57f11_9366.webp?alt=media&token=de5f24e8-a69e-47a3-8abe-17073fcf961f",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "9WygmYYuIxYYmHOxAwF6",
+        "description": "A ZIP-UP HOODIE WITH SPORT-INSPIRED COMFORT. What's your colour? This juniors' adidas zip-up hoodie comes in many. And while its slim fit and minimalist style make this your daily go-to before heading out the door, it's really the soft, buttery touch of its French terry fabric that has you jumping for joy. This product is made with recycled content as part of our ambition to end plastic waste.",
+        "price": "839.34",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F4.jpg?alt=media&token=9d11d5f6-9ec2-4bf7-a962-d73f95bd5f38",
+        "storeName": "Adidas Kids",
+        "category": "Kids Fashion",
+        "name": "ADIDAS ESSENTIALS FULL-ZIP HOODIE",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "HVW8rFbp0LcPn8bqhAtx",
+        "mallName": "Cairo Festival City",
+        "category": "Kids Fashion",
+        "price": "1,158.40",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F8.jpg?alt=media&token=360f6701-2905-4203-bb92-7ac8a9c24533",
+        "description": "A HOODIE-AND-PANTS JOGGER SET DONE UP IN VIBRANT COLOURS. An active life powers up our passions and pushes us past the impossible. Good thing your little one is always on the move. This infants' adidas two-piece jogger set is made of soft French terry for snuggle-worthy comfort. If it gets chilly, the lined hood keeps the cold from creeping in. By buying cotton products from us, you're supporting more sustainable cotton farming. This product is also made with recycled content as part of our ambition to end plastic waste.",
+        "storeName": "Adidas Kids",
+        "name": "JOGGER SET"
+       },
+       {
+        "id": "OEBTXD1gD2KihxlBgG4V",
+        "price": "3,449.40",
+        "storeName": "Adidas Kids",
+        "description": "A PADDED JACKET THAT TRANSFORMS INTO A VEST, MADE WITH RECYCLED MATERIALS. LEGO® bricks teach us that we can build what we can imagine. Take that mentality into your every day in this juniors' 2-in-1 jacket that's part of the LEGO Group and adidas collection. Detachable sleeves give you two ways to wear it — as a classic jacket or a sleeveless vest. Synthetic insulation holds heat close to keep you warm as you flow through cold days. Made with a series of recycled materials and 100% recycled content.",
+        "mallName": "Cairo Festival City",
+        "category": "Kids Fashion",
+        "name": "ADIDAS X CLASSIC LEGO® 2-IN-1 PADDED JACKET",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F7.webp?alt=media&token=0a9f495d-07a3-4cf5-937d-61728d1cf95b"
+       },
+       {
+        "id": "PKrWyVbs0Ma3YxJ6wp96",
+        "storeName": "Adidas Kids",
+        "category": "Kids Fashion",
+        "description": "A SOFT BODYSUIT, MADE IN PART WITH RECYCLED CONTENT. Dress your little one in this adidas x LEGO® bodysuit for infants and nurture a sense of wonder, creativity and play in them right from the get-go. The soft French terry build lets them crawl and climb in comfort. When their day is done and bath time comes, the snap button front makes taking it off a breeze. Made in part with recycled content generated from production waste, e.g. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content. Our cotton products support more sustainable cotton farming.",
+        "name": "ADIDAS X CLASSIC LEGO® BODYSUIT",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2FHM2209_01_laydown.jpg?alt=media&token=3c51bdc5-8e15-480c-a0fe-adfd8cd2b09d",
+        "price": "874.50",
+        "mallName": "Cairo Festival City"
+       },
+       {
+        "id": "Sy1cwyWiLGiaQ0oXYcsq",
+        "price": "851.60",
+        "name": "BELGIUM 22 AWAY JERSEY",
+        "mallName": "Cairo Festival City",
+        "category": "Kids Fashion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F6.jpg?alt=media&token=e5b88aea-a082-4aae-8138-e0350ab16a0c",
+        "description": "A FAN JERSEY THAT STRIKES THE RIGHT NOTE, MADE WITH RECYCLED MATERIALS. Set to make some noise on international football's biggest stage. The new adidas away jersey for the Belgian Red Devils is inspired by Tomorrowland's famous fireworks. A true statement of love, as also reflected on the outer back collar with LOVE sign-off and Tomorrowland branding. Made for fans of football and festivals uniting from all corners of the world, this shirt includes moisture-absorbing AEROREADY. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "storeName": "Adidas Kids"
+       },
+       {
+        "id": "TRARSw9wgmhOAKKA4mYb",
+        "price": "2,099.30",
+        "description": "A JUVENTUS FOOTBALL JERSEY MADE WITH RECYCLED MATERIALS. Stars and stripes hit the road. Two abiding symbols of home matches collide in this juniors' adidas Juventus away jersey. Its bold monochrome design includes black stripes formed from explosive starbursts. The mesh panels and moisture-wicking AEROREADY are all about keeping fans comfortable. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "storeName": "Adidas Kids",
+        "mallName": "Cairo Festival City",
+        "category": "Kids Fashion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F9.webp?alt=media&token=5803f18c-7da3-4a8f-b5ee-f45540cfddcb",
+        "name": "JUVENTUS 22/23 AWAY JERSEY Y"
+       },
+       {
+        "id": "X2MS6YcsLHam95FClOTA",
+        "storeName": "Adidas Kids",
+        "mallName": "Cairo Festival City",
+        "description": "A JUVENTUS FOOTBALL JERSEY MADE WITH RECYCLED MATERIALS. Stars and stripes hit the road. Two abiding symbols of home matches collide in this juniors' adidas Juventus away jersey. Its bold monochrome design includes black stripes formed from explosive starbursts. The mesh panels and moisture-wicking AEROREADY are all about keeping fans comfortable. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "price": "2,099.30",
+        "category": "Kids Fashion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F9.webp?alt=media&token=fdb24f7a-05bf-4c84-adce-a16a8106086f",
+        "name": "JUVENTUS 22/23 AWAY JERSEY Y"
+       },
+       {
+        "id": "k4c7gGnKyZMttUoZ9vFm",
+        "price": "1,149.00",
+        "description": "IT'S ALL PLAY AND COMFORT WITH THIS SPORTY TWO-PIECE SET. Okay, so your little one probably doesn't understand sport yet. But they will, and this infants' adidas tee and shorts set puts them on the right track. It also keeps them comfortable all day long, with lightweight cotton material that feels soft against their skin. Our cotton products support more sustainable cotton farming.",
+        "name": "ESSENTIALS SPORT SET",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F6a99df5f747446c89e27add70137a0c5_9366.webp?alt=media&token=0ff0cdf6-0cf8-47eb-9a22-3027d9a4af22",
+        "category": "Kids Fashion",
+        "mallName": "Cairo Festival City",
+        "storeName": "Adidas Kids"
+       },
+       {
+        "id": "khg1Qq3vaZln5Ck2euA7",
+        "mallName": "Cairo Festival City",
+        "price": "1,158.40",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F5.jpg?alt=media&token=d7e5064b-f762-4064-a1de-1db9672228ab",
+        "name": "FUTURE ICONS SHINY ALLOVER PRINT JOGGER SET (GENDER NEUTRAL)",
+        "category": "Kids Fashion",
+        "storeName": "Adidas Kids",
+        "description": "A HOODIE AND PANTS SET WITH A CARTOON THEME, MADE WITH RECYCLED MATERIALS. The adidas Badge of Sport gets animated in this infants' outfit with a touch of shine. The top and bottom are made from 100% recycled polyester that feels soft against little ones' skin. The mesh-lined hood is extra snugly. Wrapping adidas 3-Stripes add cute, sporty style. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste."
+       },
+       {
+        "id": "uZFpcLejd0L0PuXdn9Ty",
+        "mallName": "Cairo Festival City",
+        "category": "Kids Fashion",
+        "price": "799.00",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F1.jpg?alt=media&token=bc3afa06-0afa-494d-a646-6d6566da4b10",
+        "name": "AHLY H JSY Y",
+        "storeName": "Adidas Kids",
+        "description": "TWO ICONS OF THE BEAUTIFUL GAME, ONE ICONIC PARTNERSHIP. THE CLUB OF THE CENTURY, AL AHLY, MEETS ADIDAS. FEATURING THE ICONIC AHLY RED AND THEIR NEW CREST, THE HOME JERSEY IS THE PERFECT WAY FOR YOU TO SHOW YOUR SUPPORT FOR THE CLUB. WE BELIEVE THAT THROUGH SPORT WE HAVE THE POWER TO CHANGE LIVES. THROUGH THIS PARTNERSHIP, WE HAVE A SHARED AMBITION TO BRING THIS MANTRA TO LIFE ACROSS THE CITY OF CAIRO BY INSPIRING THE NEXT GENERATION OF YOUNG GIRLS AND BOYS WHO LOVE PLAYING THIS BEAUTIFUL GAME."
+       },
+       {
+        "id": "uZw2vMSitdDxlXSqzW8H",
+        "description": "A SPORTY SHORTS AND TEE SET FOR TOTAL COMFORT. It's full adidas pride with this kids' two-piece set. The t-shirt and shorts can be worn together or separately, which means you actually get three looks in one. Which is great, with how many outfit changes seem to happen on busy days. Our cotton products support more sustainable cotton farming.",
+        "category": "Kids Fashion",
+        "storeName": "Adidas Kids",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F10.webp?alt=media&token=af978a00-1c7f-4c69-8ee8-b5f2998b1cfc",
+        "price": "1,899.00",
+        "mallName": "Cairo Festival City",
+        "name": "ADIDAS REKIVE SHORTS AND TEE SET"
+       },
+       {
+        "id": "yDz2Y4qU4Md7MMytKwMj",
+        "category": "Kids Fashion",
+        "storeName": "Adidas Kids",
+        "name": "DESIGNED 2 MOVE SHORTS",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FmSYXDy2Id3wamCxDMCbI%2F3.jpg?alt=media&token=f584d175-aa15-43ba-981c-5d83526e2c5f",
+        "description": "SHORTS MADE FOR DAILY COMFORT. Whether you're heading out or relaxing at home, move through your day in comfort and style in these juniors' shorts. The moisture-absorbing AEROREADY technology keeps you feeling dry and fresh. An adidas Badge of Sport on the leg completes the athletic-wear look. This product is made with Primegreen, a series of high-performance recycled materials.",
+        "mallName": "Cairo Festival City",
+        "price": "594.01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "neYiigTZhS0J1aPH9l6F",
+    "MallName": "Cairo Festival City",
+    "name": "Women's Fashion",
+    "shops": [
+     {
+      "id": "HIw6hntXOwdnCs9jPR08",
+      "address": "Level 3",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/4h7mthGbGSOxs7BLsgFH%2Fshops%2Fdefacto.webp?alt=media&token=a7fca141-dd6d-4134-8b3c-45961627b363",
+      "category": "Women's Fashion",
+      "name": "Defacto",
+      "mallName": "Cairo Festival City",
+      "products": [
+       {
+        "id": "1Jw4vb7TjUXjNtXqDxWH",
+        "description": "Oversize Fit Shirt Collar Tweed Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "price": "719",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F14.webp?alt=media&token=d312fade-3bda-4de0-9cbf-7debaf5f49ac",
+        "storeName": "Defacto",
+        "category": "Women's Fashion",
+        "name": "Oversize Fit Shirt Collar Tweed Long Sleeve Shirt"
+       },
+       {
+        "id": "5r5mS6Wn9SakQCYTlaEV",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F3.webp?alt=media&token=74d1e2ff-a8f7-4fa7-8725-bfb08f2c2076",
+        "mallName": "Cairo Festival City",
+        "description": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "price": "719",
+        "storeName": "Defacto",
+        "category": "Women's Fashion",
+        "name": "Regular Fit Shirt Collar Long Sleeve Shirt"
+       },
+       {
+        "id": "C02LkJYt4NfESfR7TURT",
+        "category": "Women's Fashion",
+        "storeName": "Defacto",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F8.webp?alt=media&token=bdcd071c-9180-4671-8683-3d9a76a3f678",
+        "description": "Regular Fit Pocketed Long Sleeve Viscose Shirt",
+        "name": "Regular Fit Pocketed Long Sleeve Viscose Shirt",
+        "price": "799"
+       },
+       {
+        "id": "Ee60Ct6PFbHQd27RZqCf",
+        "price": "559",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F13.webp?alt=media&token=d747833e-026f-4d3b-a619-6a7d6527db42",
+        "name": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "description": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "storeName": "Defacto",
+        "category": "Women's Fashion"
+       },
+       {
+        "id": "FkDkNmpEIJYZsnQMeQ3S",
+        "category": "Women's Fashion",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F1.webp?alt=media&token=e11ad7d8-f567-48aa-9932-31435938ff9d",
+        "name": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "description": "Oversize Fit Shirt Collar Poplin Long Sleeve Shirt",
+        "price": "899",
+        "storeName": "Defacto"
+       },
+       {
+        "id": "GIsVBGmNNgSh78I8rOML",
+        "storeName": "Defacto",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F12.webp?alt=media&token=a85151d6-e004-4f62-b633-1239d9f9bb3e",
+        "price": "799",
+        "description": "Oversize Fit Shirt Collar Basic Long Sleeve Gabardine Shirt",
+        "category": "Women's Fashion",
+        "name": "Oversize Fit Shirt Collar Basic Long Sleeve Gabardine Shirt"
+       },
+       {
+        "id": "MRLyLV2dl9LyNy3jM7g8",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F8.webp?alt=media&token=bdcd071c-9180-4671-8683-3d9a76a3f678",
+        "description": "Regular Fit Pocketed Long Sleeve Viscose Shirt",
+        "storeName": "Defacto",
+        "price": "799",
+        "category": "Women's Fashion",
+        "name": "Regular Fit Pocketed Long Sleeve Viscose Shirt"
+       },
+       {
+        "id": "RBObmbNjOCEd0MgHnjD6",
+        "storeName": "Defacto",
+        "category": "Women's Fashion",
+        "description": "Oversize Fit Poplin Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "name": "Oversize Fit Poplin Long Sleeve Shirt",
+        "price": "499",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F11.webp?alt=media&token=18e41e3a-7812-47f2-8916-6d34c3d8e6ba"
+       },
+       {
+        "id": "ZndSbV7swCNQxQ4fkFoW",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F5.webp?alt=media&token=f8225de7-e6e8-47a1-ae73-e3839e9cb89d",
+        "description": "Oversize Fit Shirt Collar Gabardine Long Sleeve Shirt",
+        "storeName": "Defacto",
+        "price": "699",
+        "category": "Women's Fashion",
+        "name": "Oversize Fit Shirt Collar Gabardine Long Sleeve Shirt"
+       },
+       {
+        "id": "ax7RxmRkufKQwDFpGI8r",
+        "category": "Women's Fashion",
+        "price": "479",
+        "name": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F7.webp?alt=media&token=e7eb19fd-11a3-40eb-bbf4-f35bc035631c",
+        "description": "Regular Fit Shirt Collar Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "storeName": "Defacto"
+       },
+       {
+        "id": "cEbLhX5is3vPBKoKuLlT",
+        "category": "Women's Fashion",
+        "storeName": "Defacto",
+        "description": "Regular Fit Shirt Collar Jacquard Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "price": "699",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F4.webp?alt=media&token=d6e6d0e6-5bb9-472b-afd8-81f1cf5956c9",
+        "name": "Regular Fit Shirt Collar Jacquard Long Sleeve Shirt"
+       },
+       {
+        "id": "djQL0NCr0NoVkFJd9lbU",
+        "storeName": "Defacto",
+        "name": "Shirt Collar Tencel Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F9.webp?alt=media&token=a5cbab0c-7b6a-490c-91b7-417fe7def763",
+        "description": "Shirt Collar Tencel Long Sleeve Shirt",
+        "category": "Women's Fashion",
+        "price": "699"
+       },
+       {
+        "id": "jmkIuPzbluZe7N0l1gMr",
+        "name": "Oversize Fit Shirt Collar Linen Long Sleeve Shirt",
+        "description": "Oversize Fit Shirt Collar Linen Long Sleeve Shirt",
+        "price": "799",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F6.webp?alt=media&token=66d4ea40-2ef3-4f96-a47b-a54e9052a379",
+        "mallName": "Cairo Festival City",
+        "storeName": "Defacto",
+        "category": "Women's Fashion"
+       },
+       {
+        "id": "m99nzvdpM0vC6ZVF9LVl",
+        "name": "Regular Fit Shirt Collar Basic Long Sleeve Satin Shirt",
+        "category": "Women's Fashion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F15.webp?alt=media&token=fc472185-b6ce-4632-8c68-2bb9fd347334",
+        "description": "Regular Fit Shirt Collar Basic Long Sleeve Satin Shirt",
+        "price": "719",
+        "mallName": "Cairo Festival City",
+        "storeName": "Defacto"
+       },
+       {
+        "id": "vMb2GFQZsamN4oup5lSE",
+        "mallName": "Cairo Festival City",
+        "price": "799",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F10.webp?alt=media&token=baf3ab6d-e885-4d44-ae0d-91d3a3d855e7",
+        "name": "Regular Fit Pocketed Long Sleeve Viscose Shirt",
+        "storeName": "Defacto",
+        "description": "Regular Fit Pocketed Long Sleeve Viscose Shirt",
+        "category": "Women's Fashion"
+       },
+       {
+        "id": "xj99aIWUBbBRBsIOM3iy",
+        "price": "719",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FHIw6hntXOwdnCs9jPR08%2F2.webp?alt=media&token=d3e5765c-2995-430d-a029-8e86c75614d9",
+        "name": "Regular Fit Shirt Collar Basic Long Sleeve Shirt",
+        "mallName": "Cairo Festival City",
+        "description": "Regular Fit Shirt Collar Basic Long Sleeve Shirt",
+        "storeName": "Defacto",
+        "category": "Women's Fashion"
+       }
+      ]
+     },
+     {
+      "id": "gFmDPVKv1TQlZX3DFNms",
+      "mallName": "Cairo Festival City",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/4h7mthGbGSOxs7BLsgFH%2Fshops%2FHymiN7DtMg-main.jpg?alt=media&token=8284ec21-4a66-4ffe-b151-c0e86d8391ca",
+      "address": "Level 2",
+      "category": "Women's Fashion",
+      "name": "Bershka",
+      "products": [
+       {
+        "id": "30XcGUTRTtaD9QbNY9qT",
+        "price": "1,199",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F7.jpg?alt=media&token=5127c270-3739-49c0-af69-8c226e2d0430",
+        "description": "Sleeveless nylon mini dress with cut-out detail",
+        "storeName": "Bershka",
+        "category": "Women's Fashion",
+        "mallName": "Cairo Festival City",
+        "name": "Sleeveless nylon mini dress with cut-out detail"
+       },
+       {
+        "id": "3Eezj8PN37EOHbYhSX4P",
+        "mallName": "Cairo Festival City",
+        "price": "1,399",
+        "category": "Women's Fashion",
+        "name": "Seamless jumpsuit with straps",
+        "description": "Seamless jumpsuit with straps",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F5.gif?alt=media&token=3ba4282f-cc3a-481b-9a9c-b4965a2c482d",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "5ABRLykBSigBLnRbcjdD",
+        "mallName": "Cairo Festival City",
+        "name": "Fitted midi dress with wide straps",
+        "storeName": "Bershka",
+        "category": "Women's Fashion",
+        "price": "1,799",
+        "description": "Fitted midi dress with wide straps",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F10.jpg?alt=media&token=2f2d2df5-d8bf-467f-b4b2-df032045bf65"
+       },
+       {
+        "id": "6ynlrDYjh2aKiWxFVsYZ",
+        "price": "1,699",
+        "mallName": "Cairo Festival City",
+        "description": "Long knit polo collar dress",
+        "category": "Women's Fashion",
+        "storeName": "Bershka",
+        "name": "Long knit polo collar dress",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F4.jpg?alt=media&token=cfa06823-0bf8-4f76-9209-eed24bb64dcd"
+       },
+       {
+        "id": "9tSm61PlJwlLpK9R3KDA",
+        "mallName": "Cairo Festival City",
+        "name": "Adjustable straight cargo trousers",
+        "category": "Women's Fashion",
+        "price": "1,599",
+        "description": "Adjustable straight cargo trousers",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F13.gif?alt=media&token=05acb885-92cc-4d65-b9f8-f7051b09f2de",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "O6ZVJtljrDlw3BAitCsc",
+        "category": "Women's Fashion",
+        "storeName": "Bershka",
+        "mallName": "Cairo Festival City",
+        "description": "Long strapless ruffled dress",
+        "price": "1,599",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F3.jpg?alt=media&token=2ed2a97a-9587-41d7-9cfd-b833c4dfded4",
+        "name": "Long strapless ruffled dress"
+       },
+       {
+        "id": "Zscrtox4oBfABMtBFNug",
+        "storeName": "Bershka",
+        "price": "1,399",
+        "name": "Midi dress with long sleeves and asymmetric neckline",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F6.gif?alt=media&token=e04d1b4e-dbf0-4e94-b62b-839df961563f",
+        "mallName": "Cairo Festival City",
+        "description": "Midi dress with long sleeves and asymmetric neckline",
+        "category": "Women's Fashion"
+       },
+       {
+        "id": "cS6AYoPMvSfZPbPR4L43",
+        "name": "Ripped denim shorts with pockets",
+        "storeName": "Bershka",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2Fa6c31135214c0b73d7089794fe134bd5-2488969433_2_3_0.webp?alt=media&token=394df5d1-bb59-4cfc-87e3-30f375a64e02",
+        "description": "Ripped denim shorts with pockets",
+        "mallName": "Cairo Festival City",
+        "category": "Women's Fashion",
+        "price": "1,599"
+       },
+       {
+        "id": "dcWQgGPUblTNaErE34se",
+        "storeName": "Bershka",
+        "price": "1,799",
+        "category": "Women's Fashion",
+        "description": "Wide-leg tailored trousers with waist detail",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F11.jpg?alt=media&token=ce0f77cd-9d9f-4aec-8def-22476ad9e72c",
+        "name": "Wide-leg tailored trousers with waist detail"
+       },
+       {
+        "id": "oVCJlALv3dqb8xfx5z9s",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F14.gif?alt=media&token=3f949112-d053-43e4-affc-af7a30cc7f6c",
+        "mallName": "Cairo Festival City",
+        "price": "1,199",
+        "storeName": "Bershka",
+        "description": "Kick flare trousers with vent",
+        "name": "Kick flare trousers with vent",
+        "category": "Women's Fashion"
+       },
+       {
+        "id": "xjycHAmzEpRR9W9xgmuS",
+        "category": "Women's Fashion",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F9.jpg?alt=media&token=e6e781cc-4446-484a-b5fc-fcd27d16320b",
+        "name": "Long bandeau rib dress",
+        "price": "999",
+        "storeName": "Bershka",
+        "description": "Long bandeau rib dress"
+       },
+       {
+        "id": "yMYwRqrMBIFZuAG4yazF",
+        "category": "Women's Fashion",
+        "name": "Off-the-shoulder midi dress with print",
+        "price": "1,199",
+        "mallName": "Cairo Festival City",
+        "description": "Off-the-shoulder midi dress with print",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F8.gif?alt=media&token=f1c770ff-717d-4b00-8abb-950ef8d0342b",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "ygzOHuculdBxtdoRGLa2",
+        "category": "Women's Fashion",
+        "name": "Basic wide-leg linen trousers with an elasticated waistband",
+        "mallName": "Cairo Festival City",
+        "price": "1,599",
+        "description": "Basic wide-leg linen trousers with an elasticated waistband",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F12.gif?alt=media&token=47cb75bc-099b-4fa0-820c-2b269be8363a",
+        "storeName": "Bershka"
+       },
+       {
+        "id": "zdfB2kCFQwaMeOfN5R82",
+        "mallName": "Cairo Festival City",
+        "description": "Carpenter denim Bermuda shorts",
+        "category": "Women's Fashion",
+        "storeName": "Bershka",
+        "price": "1,599",
+        "name": "Carpenter denim Bermuda shorts",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F2.jpg?alt=media&token=d0769386-6e8b-4871-ab40-7f7505c1eb71"
+       },
+       {
+        "id": "znlGxpqW2LWQ4acFRvWK",
+        "price": "1,399",
+        "category": "Women's Fashion",
+        "storeName": "Bershka",
+        "mallName": "Cairo Festival City",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/beebuy-8d00b.appspot.com/o/Products%2FgFmDPVKv1TQlZX3DFNms%2F15.gif?alt=media&token=70d60ca2-227f-4de7-ad63-ba73a15b034c",
+        "description": "Flowing velvet stretch culottes",
+        "name": "Flowing velvet stretch culottes"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

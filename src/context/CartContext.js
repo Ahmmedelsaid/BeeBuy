@@ -10,7 +10,7 @@ const CartContext = createContext(null);
 const normalise = (item, index) => ({
   ...item,
   id: item.id || `${item.ProductName}-${item.StoreName || ""}-${index}`,
-  Price: parseFloat(item.Price) || 0,
+  Price: parseFloat(String(item.Price).replace(/,/g, "")) || 0,
   quantity: item.quantity || 1,
 });
 
@@ -65,7 +65,7 @@ export function CartProvider({ children }) {
           ProductName: product.name,
           ImageURL: product.imageUrl || "",
           Description: product.description || "",
-          Price: parseFloat(product.price) || 0,
+          Price: parseFloat(String(product.price).replace(/,/g, "")) || 0,
           MallName: product.mallName || context.mallName || "",
           StoreName: product.storeName || context.shopName || "",
           quantity: 1,
